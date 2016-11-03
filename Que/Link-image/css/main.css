@@ -5,8 +5,8 @@
 	float: left;
     margin: 5px;
     padding: 15px;
-    max-width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
     border: 1px solid black;
 }
 
@@ -22,7 +22,7 @@ a:visited {
 }
 
 /* mouse over link */
-a:hover {
+a:hover {`
     color: hotpink;
 }
 
@@ -54,5 +54,8 @@ a:active {
 	font-size: 26px;
 }
 
-
+.product {
+    color: red;
+    text-align: center;
+}
 
