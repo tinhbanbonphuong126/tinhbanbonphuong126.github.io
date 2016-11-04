@@ -1,0 +1,108 @@
+<<<<<<< HEAD:Que/Link-image/css/main.css
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+
+}
+.wrap {
+    max-width: 1000px;
+    margin: auto;
+=======
+#banner {
+    margin-right: 20px;
+}
+
+#wrap
+{
+   max-width: 1000px;
+   margin: auto;
+>>>>>>> origin/master:Techmaster/Link-image/css/main.css
+}
+
+.listproduct{
+	max-width: 250px;
+}
+.frame_products {
+<<<<<<< HEAD:Que/Link-image/css/main.css
+    float: left;
+    width: calc(50% - 5px);
+    height: 400px;
+    padding: 10px;
+    border: 1px solid black;
+=======
+	float: left;
+    width: calc(50% - 20px);
+    height: 400px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 3%;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+>>>>>>> origin/master:Techmaster/Link-image/css/main.css
+}
+
+/*Peseudo*/
+
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+
+/*Product details */
+#leftcol {
+    width: 65%;
+    height: 300px;
+    float: left;
+}
+#rightcol {
+    float: right;
+    width: 35%;
+}
+.productTitle {
+	font-size: 21px!important;
+    line-height: 1.3!important;
+    font-family: Arial,sans-serif;
+}
+.price {
+	color: red;
+}
+.technicaldetails {
+	color: blue;
+	font-size: 26px;
+}
+
+.product {
+    color: red;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+<<<<<<< HEAD:Que/Link-image/css/main.css
+    margin: auto;
+}
+=======
+}
+
+>>>>>>> origin/master:Techmaster/Link-image/css/main.css
