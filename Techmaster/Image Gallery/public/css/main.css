@@ -1,0 +1,46 @@
+/* common styling */
+
+a {color:#000;}
+a {text-decoration:none;}
+a:visited {color:#000;}
+
+* {
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+#wrap {
+	max-width: 1000px;
+	margin: auto;
+}
+
+#banner {
+
+
+}
+
+#main-menu ul {background-color:#5F5F5F;
+
+}
+
+#main-menu li {
+	float: left;
+}
+#main-menu li a{
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: white;	
+}
+#photo {
+	border: 1px solid black;
+	width: 333px;
+	height: 200px;
+	float: left;
+	margin-top: 25px;
+	border-radius: 3%;
+}
+
+img {
+	width: 100%;
+}
