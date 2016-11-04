@@ -15,32 +15,53 @@ a:visited {color:#000;}
 }
 
 #banner {
-
-
+	margin: 0 10px;
+}
+#banner img{
+	vertical-align: middle;
 }
 
-#main-menu ul {background-color:#5F5F5F;
+
+#main-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+   margin: 0 10px;
 
 }
 
 #main-menu li {
 	float: left;
 }
+#main-menu li:hover {
+	background-color: #111;
+}
 #main-menu li a{
 	display: block;
 	text-align: center;
 	text-decoration: none;
-	color: white;	
+	color: white;
+	padding:14px 30px;
 }
 #photo {
 	border: 1px solid black;
-	width: 333px;
+	width: calc(25% - 20px);
 	height: 200px;
 	float: left;
 	margin-top: 25px;
 	border-radius: 3%;
+	margin: 10px;
 }
 
 img {
-	width: 100%;
-}
+	max-width: 100%;}
+
+.description {
+	text-align: center;
+}	
+
+.active {
+	background-color: green;
+}	
