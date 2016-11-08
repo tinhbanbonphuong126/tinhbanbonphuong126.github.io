@@ -22,13 +22,17 @@ a:visited {color:#000;}
 }
 
 
+#main-menu {
+	position: relative;
+}
+
 #main-menu ul {
     list-style-type: none;
-    margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
     margin: 0 10px;
+    
 
 }
 
@@ -39,12 +43,39 @@ a:visited {color:#000;}
 	background-color: #111;
 }
 #main-menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 10px 20px;
+	display: block;
+}
+#main-menu li:first-child a{
 	display: block;
 	text-align: center;
 	text-decoration: none;
 	color: white;
-	padding: 10px 20px;
+	padding: 0px;
 }
+
+#main-menu li:first-child {
+	background-color: #ffffff;
+	border-radius: 50%;;
+	position: absolute;
+	top: -170px;
+	left: 18px;
+	display: block; 
+
+
+}
+
+#main-menu li:first-child  img {
+	border-radius: 50%;;
+	max-width: 160px;
+	vertical-align: middle;;
+
+}
+
+
+
 .photo {
 	border: 1px solid black;
 	width: calc(25% - 20px);
@@ -56,8 +87,7 @@ a:visited {color:#000;}
 
 }
 
-img {
-	max-width: 100%;}
+img {max-width:100%;}
 
 .description {
 	text-align: center;
@@ -70,4 +100,10 @@ img {
 .photo img:hover {
 	-webkit-transform: scale(1.5);
 	transform: scale(1.5);
+}
+
+#chat {
+	position: fixed;
+	right: 0px;
+	bottom: 0px;
 }

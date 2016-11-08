@@ -1,0 +1,162 @@
+* {
+	box-sizing: border-box;
+}
+
+
+#back-top a img {
+	width: 50px;
+}
+
+
+body {
+	background: #EDEDED url(../images/header.png) repeat-x top center;
+	margin: 0;
+	padding: 0;
+	
+}
+
+#header {
+	padding: 32px;
+	
+	overflow: hidden;
+	position: relative;
+	margin-bottom: 47px;
+
+}
+
+#header .logo {
+    float: left;
+    margin: 0;
+    padding-top: 0;
+    margin-top: 44px;
+    max-width: 160px;
+    position: absolute;
+    top: -26px;
+    left: 118px;;
+
+}
+
+#header .logo a {
+	display: block;
+	height: 125px;
+}
+
+#header .logo a img{
+	width: 100%;
+	border-radius: 50%;
+}
+
+#header ul {
+	display: inline;
+	list-style: none;
+	float: right;
+	
+	padding-top: 0px;
+	margin-top: 97px;
+	margin-right: 150px;
+}
+
+
+#header ul li {;;
+	;;
+	display: inline;;;
+	margin: 22px;
+	
+}
+
+
+#header ul li a {
+	border-radius: 11px;
+	background-color: #1B2130;
+	color: white;
+	padding: 16px;;
+	text-decoration: none;
+	
+}
+
+
+/*Content bar*/
+#content {
+	
+	padding;;:
+	overflow: hidden;
+	position: relative;; 
+
+}	
+#side-bar {
+	
+	width: 25%;
+	float: left;
+	padding: 0 2%;
+	top: 40px;
+	min-width: 107px;
+	position: absolute;;
+}	
+
+#side-bar  ul {
+
+	
+}
+
+#side-bar ul li a {
+	text-decoration: none;
+	display: block;
+	color: #000;
+	padding: 8px 16px;
+}
+
+#side-bar ul li a.active {
+	background-color: #4C8F96;
+}
+
+
+
+#main-content {
+	width: 75%;
+	
+	float: right;
+	padding: 50px 2%;;
+}
+
+
+#main-content .photo {
+
+
+}
+
+
+#main-content .photo {
+
+}
+
+#main-content .photo li {;
+	width: 201px;
+	;
+	float: left;;
+	margin: 10px;;
+	overflow: hidden;;
+	text-align: center;
+
+}
+
+#main-content .photo li a img {
+	display: block;
+	width: 100%;
+}
+
+#main-content .photo li b {
+	font-size: 33px;
+
+}
+
+footer {
+	clear: both;
+	
+}
+
+
+#back-top {
+	position: fixed;
+	right: 2px;
+	top: 3px;
+}
