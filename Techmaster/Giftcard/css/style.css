@@ -1,0 +1,69 @@
+#wrap {
+	margin: 20px auto;
+	border: 1px solid black;
+	width: 1020px;
+	padding: 71px;
+	background-color: lightgrey;;
+	animation: snow 20s linear infinite;
+	position: relative;
+
+}
+
+.Title {
+	font-size: 30px;
+	color: white;
+	background-color: green;
+	text-align: center;
+	animation: anime-animation 8s ease infinite;
+}
+
+.card {
+	padding-top: 0px;
+}
+
+.card img {
+	width: 100%;
+	margin-bottom: 10px;
+	opacity: 0.2;
+	transition: opacity 1s linear;
+
+}
+
+.card img:hover {
+	opacity: 1;
+
+
+}
+
+#snow {
+	position: absolute;
+	border: 1px solid red;
+	width: 1090px;;
+	top: 0px;
+	left: -1px;
+	height: 100%;
+
+}
+
+#wrap:hover {
+	background-image: url('http://i.imgur.com/BiSmXaq.png'), url('http://i.imgur.com/XHuy0NJ.png'), url('http://i.imgur.com/okpRxJU.png');
+}
+
+
+
+/*The animation code*/
+@keyframes anime-animation {
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+}
+
+@keyframes snow {
+    0% { background-position: 0px 0px, 0px 0px, 0px 0px }
+    50% { background-color: #b4cfe0 }
+    100% {
+        background-position: 500px 1000px, 400px 400px, 300px 300px;
+        background-color: #6b92b9;
+    }
+}
