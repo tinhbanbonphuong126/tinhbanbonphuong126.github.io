@@ -1,0 +1,102 @@
+#wrap {
+	margin: 20px auto;
+	width: 1000px;
+	background-color: #0000;
+}
+
+#wrap .div-title {
+	text-align: center;
+	font-size: 40px;
+	color: white;
+	background-color: green;
+	animation: anime-animation 8s ease infinite;
+}
+
+#wrap .div-photos {	
+	background-color: #F6F6F6;
+}
+#wrap .div-photos ul {
+	display: block;
+	margin: 0 auto;
+	overflow: hidden;;
+}
+
+#wrap .div-photos ul li {	
+	display: block;
+	float: left;
+	width: 30%;	
+	height: 300px;	
+	margin: 14px;
+
+}
+
+#wrap .div-photos ul li img {
+	width: 100%;
+	height: 100%;	
+	opacity: 0.2;
+	transition: opacity 0.5s linear;
+}
+
+#wrap .div-photos ul li img:hover {
+	opacity: 1;
+	transform: translate(0,-12px);
+	box-shadow: 0 25px 24px 0 rgba(0, 0, 0, 0.2)
+}
+
+
+.div-author {
+	position: relative;
+	animation: copyright 5s infinite;
+    animation-direction: alternate;
+    position: relative;
+
+}
+
+/*The animation code*/
+@keyframes anime-animation {
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+}
+
+@keyframes copyright {
+	0%   {left: 0px;}
+    100% {left: 100%;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
