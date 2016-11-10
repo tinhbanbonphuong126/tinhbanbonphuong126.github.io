@@ -1,0 +1,365 @@
+/*
+height: 44px
+height: 444px;
+border: 1px solid red;
+border: 1px solid tan;
+
+
+
+
+
+
+
+
+
+
+*/
+body {
+    font-family: arial;
+    font-size: 12px;
+    line-height: 1.42857143;
+}
+
+header {
+
+}
+
+/*top header*/
+
+.top-header {
+	background-color: #530D18;
+	/* width: 100%; */
+	padding: 0px 0px;
+	/* height: 100%; */
+}
+.top-header .container {
+	max-width: 1000px;
+	/* height: 32px; */
+	padding-right: 5px !important;
+	padding-left: 5px !important;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+}
+
+/*left*/
+.top-header .container .top-header-left {
+	float: left;
+    width: 58.33333333%;	
+}
+.top-header .container .top-header-left .address-top {
+    margin-top: 3px;	
+}
+.top-header .container .top-header-left .address-top li {
+    font-size: 12px;
+    color: #fceeff;
+    float: left;
+    padding: 0px 7px	
+}
+.top-header .container .top-header-left .address-top li:first-child {
+    padding-left: 0px;
+}
+.top-header .container .top-header-left .address-top li img{
+}
+
+.top-header .container .top-header-left .address-top li a{
+	color: #fff;
+}
+
+
+/*right*/
+.top-header .container .top-header-right {
+	float: left;
+	width: 41.66666667%;
+	/* border: 1px solid tan; */
+	/* height: 44px; */
+	position: relative;
+}
+
+.top-header-right ul {
+	
+float: right;
+}
+.top-header-right ul li {
+	
+float: left;
+	
+padding: 0 5px;
+}
+
+.top-header-right ul li:first-child {
+	
+padding-right: 10px;
+}
+
+.top-header-right ul li a {
+	
+color: #fff;
+}
+.top-header-right ul li span {
+	
+color: #fff;
+}
+.top-header-right ul li a img {
+
+}
+.top-header-right ul li a span {
+	
+}
+
+/*Top center*/
+.top-center {
+	background: url(../img/banner-top.png)no-repeat;
+	/* height: 74px; */
+	/* border: 1px solid tan; */
+	/* background-size: 100% 100%; */
+	/* overflow: hidden; */
+	/* background-size: 100%; */
+	background-size: 100% 100%;
+}
+.top-center .container {
+	/* height: 44px; */
+	/* border: 1px solid tan; */
+	overflow: hidden;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.top-center .container .nav-left{
+	/* height: 44px; */
+	/* border: 1px solid tan; */
+	float: left;
+	width: 40%;
+	margin-top: 40px;
+}
+
+.top-center .container .nav-right{
+	/* height: 44px; */
+	/* border: 1px solid tan; */
+	float: right;
+	width: 40%;
+	margin-top: 40px;
+}
+
+#logo {
+	width: 20%;
+	float: left;
+}
+
+
+/*navigation bar*/
+
+.container {
+	
+}
+.container .nav-left {
+	
+}
+.container .nav-left ul {
+	
+}
+.container .nav-left ul li {
+	
+float: left;
+	
+padding: 10px;
+	
+/* width: 84px; */
+	
+/* border: 1px solid; */
+}
+.container .nav-left ul li a {
+
+font-size: 17px;
+}
+
+
+
+
+.container .nav-right {
+	
+}
+.container .nav-right ul {
+	
+}
+.container .nav-right ul li {
+	
+float: right;
+	
+padding: 10px;
+}
+.container .nav-right ul li a {
+
+font-size: 17px;
+}
+
+.slider-main .slider {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+/*introduce*/
+
+article {
+	
+}
+article .introduce {
+    padding: 30px 0px 150px 0px;
+    background: url(../img/content-home.png)no-repeat;
+    background-size: 100% 100%;
+}
+article .introduce .container {
+	width: 1000px;
+	margin: 0 auto;
+}
+article .introduce .container .title-intro {
+	font-size: 44px;
+    color: #8a0000;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.introduce .container .dcs-intro {
+	font-size: 36px;
+	text-align: center;
+}
+.container .content-intro .descripton-intro {
+	font-size: 16px;
+}
+
+.introduce .container .view-more {
+text-align: center;
+
+margin-top: -19px;
+
+margin-left: 350px;
+
+}
+
+.restaurant {
+
+}
+
+.restaurant .title-retaurant {
+	text-transform: uppercase;
+	text-align: center;
+    margin-bottom: 10px;
+    padding: 10px 0px 35px 0px;
+    font-size: 24px;
+    color: #220005;
+    font-weight: bold;
+    background: url(../img/bg-hedding.png) no-repeat bottom center;
+}
+
+
+.restaurant .retaurant-home {
+	/* padding: 57px 0px 72px 0px; */
+	background: lightskyblue;
+	/* background-size: 100% 100%; */
+	/* background: url(../img/bg-content-home.png)no-repeat; */
+	/* background-size: 100% 97%; */
+	/* height: 200px; */
+}
+
+.restaurant .retaurant-home .restaurant-container {
+
+max-width: 1000px;
+
+/* height: 300px; */
+
+margin: auto;
+
+/* border: 1px solid black; */
+}
+
+
+.restaurant-container ul {
+	overflow: hidden;
+}
+.restaurant-container ul .items-restaurant {
+
+width: 30%;
+
+margin: 1.666666666%;
+
+/* height: 200px; */
+
+/* border: 1px solid red; */
+
+float: left;
+}
+.restaurant-container ul .items-restaurant a {
+
+}
+.restaurant-container ul .items-restaurant a p {
+
+text-align: justify;
+} 
+.restaurant-container ul .items-restaurant a h2 {
+
+color: red;
+
+text-align: center;
+} 
+.restaurant-container ul .items-restaurant a img {
+
+}
+
+/*ORDER FOOD */
+
+.food-menu {
+
+padding: 30px;
+}
+.food-menu .contain-menu {
+
+max-width: 1000px;
+
+margin: auto;
+}
+.food-menu .contain-menu h2 {
+
+text-align: center;
+
+font-size: 30px;
+
+color: red;
+}
+.food-menu .contain-menu .menu-list {
+
+}
+.food-menu .contain-menu .menu-list ul {
+
+overflow: hidden;
+
+/* border: 1px solid red; */
+}
+.food-menu .contain-menu .menu-list ul li {
+
+float: left;
+
+margin: 1.66666666%;
+
+width: 30%;
+
+/* border: 1px solid red; */
+
+height: 300px;
+
+text-align: center;
+}
+.food-menu .contain-menu .menu-list ul li a {
+
+}
+.food-menu .contain-menu .menu-list ul li a img {
+
+width: 100%;
+
+height: 192px;
+}
+.food-menu .contain-menu .menu-list ul li a h2 {
+
+}
+.food-menu .contain-menu .menu-list ul li a p {
+
+font-size: 20px;
+}

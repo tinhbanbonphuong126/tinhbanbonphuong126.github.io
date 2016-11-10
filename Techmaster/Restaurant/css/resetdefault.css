@@ -1,0 +1,53 @@
+* {
+	box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0
+}
+
+/*a tag*/
+a {
+	text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    cursor: pointer
+}
+
+/*h tag*/
+h1,h2,h3,h4,h5,h6{
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+}
+
+/*list tag*/
+ul, ol {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+/*body tag*/
+
+/*p tag*/
+p {
+    margin: 0
+}
+body {
+    font-family: arial;
+    font-size: 12px
+    line-height: 1.42857143
+}
+
+/*image*/
+img {
+    vertical-align: middle;
+}
+
+img {
+    border: 0;
+}
