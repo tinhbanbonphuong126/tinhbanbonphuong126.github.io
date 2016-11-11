@@ -1,0 +1,16 @@
+#cap1 {
+}
+
+#cap1 > li {
+	float: left;
+	margin: 20px;
+}
+
+
+#cap1 > li:hover > ul {
+	display: block;
+}
+#cap2 {
+	display: none;
+
+}
