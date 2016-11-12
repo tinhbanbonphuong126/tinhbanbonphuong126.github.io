@@ -202,7 +202,7 @@ color: white;
 	width: 1000px;
 	height: 500px;
 	background-size: 100% 100%;
-	background-image: url('../img/media/_DSF13411.jpg');
+	background-image: url('../img/DSF13411.jpg');
 	animation: slider-banner 10s ease infinite;
 	position: relative;
 }
@@ -589,11 +589,11 @@ li .dropdown {
 
 
 @keyframes slider-banner {
-	0%  {background-image: url('../img/media/_DSF1347.jpg');}
-    25%  {background-image: url('../img/media/_DSF1348.jpg');}
-    50%  {background-image: url('../img/media/_DSF1354.jpg');}
-    75%  {background-image: url('../img/media/_DSF2709.jpg');}
-    100% {background-image: url('../img/media/_DSF27151.jpg');}
+	0%  {background-image: url('../img/DSF1347.jpg');}
+    25%  {background-image: url('../img/DSF1348.jpg');}
+    50%  {background-image: url('../img/DSF1354.jpg');}
+    75%  {background-image: url('../img/DSF2709.jpg');}
+    100% {background-image: url('../img/DSF27151.jpg');}
 }
 
 @keyframes sale-off {
