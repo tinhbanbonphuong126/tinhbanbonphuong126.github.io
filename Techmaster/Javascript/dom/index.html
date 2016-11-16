@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>dom</title>
+</head>
+<body>
+
+<h1>Tạo 1 trang HTML với nội dung là 3 đoạn văn. Hãy viết các function có tác dụng như sau:</h1>
+
+<p>function changeFontSize(x): Thay đổi kích thước font chữ của cả 3 đoạn văn thành x pixels.</p>
+<p>function increaseFontSize(paragraph): Tăng kích thước font chữ của đoạn văn mong muốn (paragraph) lên 1 pixel so với kích thước hiện tại, kích thước tăng lên không được vượt quá 30 pixels (Sử dụng sau khi gọi hàm changeFontSize()).</p>
+<p>function decreaseFontSize(paragraph): Giảm kích thước font chữ của đoạn văn mong muốn (paragraph) xuống 1 pixels so với kích thước hiện tại, kích thước giảm xuống không vượt quá 10 pixels (Sử dụng sau khi gọi hàm changeFontSize()).
+function changeColor(): Đổi màu chữ của 3 đoạn văn theo thứ tự xanh, vàng, đỏ.</p>
+<p>function changeBgColor(color): Thay đổi màu nền của trang thành màu color.
+function copyContent(paragraph1, paragraph2): Thay đổi nội dung của đoạn văn paragraph1 thành giống nội dung của đoạn văn paragraph2.</p>
+
+<hr>
+<hr>
+<div>Bai 1: function changeFontSize(x): Thay đổi kích thước font chữ của cả 3 đoạn văn thành x pixels.</div>
+<button onclick="changeFontSize()">Try it</button> <input type="range" id="px" name="points" min="10" max="30" value = "10"> <br>
+
+<div>Bai 2: function increaseFontSize(paragraph): Tăng kích thước font chữ của đoạn văn mong muốn (paragraph) lên 1 pixel so với kích thước hiện tại, kích thước tăng lên không được vượt quá 30 pixels (Sử dụng sau khi gọi hàm changeFontSize()).</div>
+<button onclick="increaseFontSize(paragraph)">Try it</button> <br>
+
+<div>Bai 3: function decreaseFontSize(paragraph): Giảm kích thước font chữ của đoạn văn mong muốn (paragraph) xuống 1 pixels so với kích thước hiện tại, kích thước giảm xuống không vượt quá 10 pixels (Sử dụng sau khi gọi hàm changeFontSize())</div>
+<button onclick="decreaseFontSize(paragraph)">Try it</button> <br>
+
+<div>Bai 4: function changeColor(): Đổi màu chữ của 3 đoạn văn theo thứ tự xanh, vàng, đỏ.</div>
+<button onclick="changeColor()">Try it</button> <br>
+
+<div>Bai 5: function changeBgColor(color): Thay đổi màu nền của trang thành màu color.</div>
+<button onclick="changeBgColor(color)">Try it</button> <br>
+
+<div>Bai 6: function copyContent(paragraph1, paragraph2): Thay đổi nội dung của đoạn văn paragraph1 thành giống nội dung của đoạn văn paragraph2.</div>
+<button onclick="copyContent(paragraph1, paragraph2)">Try it</button> <br>
+
+
+<script>
+	function changeFontSize(){
+		var x = document.getElementsByTagName("p");
+		var	y = document.getElementById("px").value;
+		var i;
+		for (i=0; i<x.length-1; i++){
+			x[i].style.fontSize = y + "px";
+		}
+	}
+
+</script>	
+</body>
+</html>
