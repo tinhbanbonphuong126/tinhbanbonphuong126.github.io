@@ -1,0 +1,138 @@
+body, section{
+	background: #fff;
+	color: #000;
+	margin: 0;
+	padding: 0;
+}
+section, div{
+	display: block;
+}
+input:focus, button:focus{
+	outline: none;
+}
+
+.section--footer, .section--header, .section--content{
+	height: 70px;
+	/*background: red;*/
+}
+
+.bg-green{
+	background: green;
+}
+.bg-gray{
+	background: gray;
+}
+.bg-red{
+	background: red;
+}
+/*
+	html color code
+*/
+
+.container{
+	width: 1200px;
+	/* background: #fff; */
+	margin: 10px auto;
+	padding: 15px;
+}	
+.div--logo, 
+.div--search-bar,
+.div--icons{
+    width: 32%;
+    float: left;
+    margin: 0 8px;
+}
+.div--search-bar{
+	position: relative;
+}
+.div--header-parent{
+	height: 90px;
+}
+.div--logo img{
+    width: 135px;
+    margin-top: -10px;
+}
+.div--search-bar input{
+	width: 75%;
+    height: 30px;
+    font-size: 16px;
+    border: 1px solid #000;
+    border-radius: 15px;
+    padding-left: 10px;
+}
+#btn--search{
+   	position: absolute;
+    top: 3px;
+    right: 50px;
+    border: none;
+    background: #fff;
+}
+.div--icon-child{
+	width: 32%;
+	float: right;
+	margin: 0 2px;
+	text-align: center;
+    width: 100px;
+    border-left: 1px dashed #2ca9e1; 
+}
+.div--icon-child:last-child{
+	border-left:none;
+}
+.div--icon-child i{
+	display: block;
+}
+.div--icon-child a{
+	text-decoration: none;
+	color: #000;
+}
+.div--icon-child a:hover{
+	color: #2ca9e1;
+}
+
+
+/*navigation bar */
+.section--header .header-nav {
+	background: #2ca9e1;
+	color: #fff;
+	position: relative;
+	/* height: 100px; */
+}
+
+.main-menu-nav {
+    position: relative;
+}
+
+.container .main-menu-nav ul {
+	
+margin: 0 auto;
+	
+overflow: hidden;
+}
+.container .main-menu-nav ul li {
+	
+float: left;
+list-style: none;
+	
+/* text-decoration: none; */
+}
+.container .main-menu-nav ul li a  {
+    display: block;
+    line-height: 44px;
+    color: #fff;
+    padding: 0 25px;
+    border-right: 1px dashed #28bcff;
+    border-top: 2px solid #2ca9e1;
+    text-decoration: none;
+    position: relative;
+}
+.container .main-menu-nav ul li a span {
+	
+}
+
+
+.container .main-menu-nav ul li a span {
+	
+}
+.container .main-menu-nav ul li a span {
+
+}
