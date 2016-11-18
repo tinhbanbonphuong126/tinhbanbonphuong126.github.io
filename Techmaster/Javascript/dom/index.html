@@ -3,48 +3,123 @@
 <head>
 	<meta charset="UTF-8">
 	<title>dom</title>
+	<style>
+		p{
+
+		}
+	</style>
 </head>
 <body>
 
 <h1>Tạo 1 trang HTML với nội dung là 3 đoạn văn. Hãy viết các function có tác dụng như sau:</h1>
 
-<p>function changeFontSize(x): Thay đổi kích thước font chữ của cả 3 đoạn văn thành x pixels.</p>
-<p>function increaseFontSize(paragraph): Tăng kích thước font chữ của đoạn văn mong muốn (paragraph) lên 1 pixel so với kích thước hiện tại, kích thước tăng lên không được vượt quá 30 pixels (Sử dụng sau khi gọi hàm changeFontSize()).</p>
-<p>function decreaseFontSize(paragraph): Giảm kích thước font chữ của đoạn văn mong muốn (paragraph) xuống 1 pixels so với kích thước hiện tại, kích thước giảm xuống không vượt quá 10 pixels (Sử dụng sau khi gọi hàm changeFontSize()).
+<p id="p1">Paragraph 1 function changeFontSize(x): Thay đổi kích thước font chữ của cả 3 đoạn văn thành x pixels.</p>
+<p id="p2">Paragraph 2 function increaseFontSize(paragraph): Tăng kích thước font chữ của đoạn văn mong muốn (paragraph) lên 1 pixel so với kích thước hiện tại, kích thước tăng lên không được vượt quá 30 pixels (Sử dụng sau khi gọi hàm changeFontSize()).</p>
+<p id="p3">Paragraph 3 function decreaseFontSize(paragraph): Giảm kích thước font chữ của đoạn văn mong muốn (paragraph) xuống 1 pixels so với kích thước hiện tại, kích thước giảm xuống không vượt quá 10 pixels (Sử dụng sau khi gọi hàm changeFontSize()).
 function changeColor(): Đổi màu chữ của 3 đoạn văn theo thứ tự xanh, vàng, đỏ.</p>
-<p>function changeBgColor(color): Thay đổi màu nền của trang thành màu color.
+<p id="p4">Paragraph 4 function changeBgColor(color): Thay đổi màu nền của trang thành màu color.
 function copyContent(paragraph1, paragraph2): Thay đổi nội dung của đoạn văn paragraph1 thành giống nội dung của đoạn văn paragraph2.</p>
 
 <hr>
 <hr>
 <div>Bai 1: function changeFontSize(x): Thay đổi kích thước font chữ của cả 3 đoạn văn thành x pixels.</div>
-<button onclick="changeFontSize()">Try it</button> <input type="range" id="px" name="points" min="10" max="30" value = "10"> <br>
+<button onclick="changeFontSize()">Try it</button> <input type="range" id="fs" name="points" min="5" max="35" value = "20"> Chang font size by range and try it<br>
 
 <div>Bai 2: function increaseFontSize(paragraph): Tăng kích thước font chữ của đoạn văn mong muốn (paragraph) lên 1 pixel so với kích thước hiện tại, kích thước tăng lên không được vượt quá 30 pixels (Sử dụng sau khi gọi hàm changeFontSize()).</div>
-<button onclick="increaseFontSize(paragraph)">Try it</button> <br>
+<button onclick="increaseFontSize()">Try it</button> <br>
 
 <div>Bai 3: function decreaseFontSize(paragraph): Giảm kích thước font chữ của đoạn văn mong muốn (paragraph) xuống 1 pixels so với kích thước hiện tại, kích thước giảm xuống không vượt quá 10 pixels (Sử dụng sau khi gọi hàm changeFontSize())</div>
-<button onclick="decreaseFontSize(paragraph)">Try it</button> <br>
+<button onclick="decreaseFontSize()">Try it</button> <br>
 
 <div>Bai 4: function changeColor(): Đổi màu chữ của 3 đoạn văn theo thứ tự xanh, vàng, đỏ.</div>
 <button onclick="changeColor()">Try it</button> <br>
 
 <div>Bai 5: function changeBgColor(color): Thay đổi màu nền của trang thành màu color.</div>
-<button onclick="changeBgColor(color)">Try it</button> <br>
+<button onclick="changeBgColor()">Try it</button> take color here: <input type="color" id="myColor"> the try it<br>
 
 <div>Bai 6: function copyContent(paragraph1, paragraph2): Thay đổi nội dung của đoạn văn paragraph1 thành giống nội dung của đoạn văn paragraph2.</div>
-<button onclick="copyContent(paragraph1, paragraph2)">Try it</button> <br>
+<button onclick="copyContent()">Try it</button> Change paragraph x->y <input type="number" id="paragraph1" value="1"><input type="number" id="paragraph2" value="2"> Click try it and look at paragraph order <br>
 
+<button onclick="myFunction()">Reload page</button>
 
 <script>
+	function myFunction() {
+	    location.reload();
+	}
+
 	function changeFontSize(){
 		var x = document.getElementsByTagName("p");
-		var	y = document.getElementById("px").value;
+		var	y = document.getElementById("fs").value;
 		var i;
-		for (i=0; i<x.length-1; i++){
+		for (i=0; i<3; i++){
 			x[i].style.fontSize = y + "px";
 		}
 	}
+	function increaseFontSize()
+	{	
+		// var x = document.getElementById("p1").style.fontSize;
+		// var fontSize = parseInt(x);
+
+		// if (fontSize < 30) {
+		// 	fontSize = fontSize + 1 + "px";
+		// } else {
+		// 	fontSize = 30 + "px";
+		// }
+		var x = window.getComputedStyle(document.getElementById("p1")).fontSize;
+		var fontSize = parseInt(x);
+
+		if (fontSize < 30) {
+			fontSize = fontSize + 1 + "px";
+		} else {
+			fontSize = 30 + "px";
+		}
+
+		document.getElementById("p1").style.fontSize = fontSize;
+
+		console.log(x);
+
+	}
+
+	function decreaseFontSize() {
+		var x = window.getComputedStyle(document.getElementById("p1")).fontSize;
+		var fontSize = parseInt(x);
+
+		if (fontSize > 10) {
+			fontSize = fontSize - 1 + "px";
+		} else {
+			fontSize = 10 + "px";
+		}
+
+		document.getElementById("p1").style.fontSize = fontSize;
+
+		console.log(x);
+	}
+	function changeColor() {
+		document.getElementById("p1").style.color = "green";
+		document.getElementById("p2").style.color = "yellow";
+		document.getElementById("p3").style.color = "red";
+	}
+
+
+	function changeBgColor()
+	{
+		document.body.style.backgroundColor = document.getElementById("myColor").value;
+	}
+
+	function copyContent()
+	{	var n = document.getElementsByTagName("p");
+		var	a = document.getElementById("paragraph1").value;
+		var	b = document.getElementById("paragraph2").value;
+		var	c;
+		c = n[(a-1)].innerHTML;
+		n[(a-1)].innerHTML = n[(b-1)].innerHTML;
+		n[(b-1)].innerHTML = c;
+		
+		
+
+	}
+	
+
 
 </script>	
 </body>
