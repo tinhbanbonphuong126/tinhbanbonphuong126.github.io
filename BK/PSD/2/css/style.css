@@ -1,0 +1,254 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: -moz-linear-gradient(top, #817253 15%, #ffffff 55%) no-repeat;
+    background: -webkit-linear-gradient(top, #817253 15%, #ffffff 55%) no-repeat;
+}
+#shadow  {
+    width: 100%;
+    float: left;
+    box-shadow: 5px 5px 20px #000 ;
+}
+#wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+#shadow {
+    width: 100%;
+    float: left;
+}
+header {
+    width: 100%;
+    overflow: hidden;
+}
+#animation {
+    width: 750px;
+    height: 300px;
+    float: left;
+}
+#logo {
+    width: 340px;
+    height: 120px;
+    background: url("../images/logo.png") no-repeat center;
+    background-color: #cc6600;
+    float: left;
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 0 0 15px 15px;
+    margin-top: -305px;
+    background-position-y: 24px;
+    padding-top: 68px;
+}
+
+#logo a {
+    color: #ffffff;
+    font-size: 40px;
+    /* text-align: center; */
+}
+
+/*navigation*/
+#right_menu {
+    float: right;
+    width: 230px;
+    height: 300px;
+    background-color: #db6516;
+    margin-top: -299px;
+}
+
+#right_menu ul {
+    line-height: 40px;
+    list-style: none;
+    height: 40px;
+}
+
+
+#right_menu ul li {
+    border-bottom: 1px solid #95450f ;
+}
+#right_menu ul li:hover {
+    background-color: #95450f;
+    -moz-transition: all 500ms linear;
+    -webkit-transition: all 500ms linear;
+}
+
+#right_menu ul li:last-child {
+    border: none;
+}
+#right_menu ul li a {
+    color: #ffffff;
+    font-size: 18px;
+    font-family:;
+    padding-left: 40px;
+}
+
+#head_content {
+    background: url("../images/header.png") no-repeat;
+    width: 100%;
+    float: left;
+    margin-top: -55px;
+    /*  */
+}
+
+#wrap_headcontent {
+    float: left;
+    /* padding: 10px; */
+    width: 100%;
+    margin-top: 73px;
+    background: url("../images/head-rep.jpg");
+    /*  */
+}
+
+#wrap_headcontent .content {
+    width: 220px;
+    height: 173px;
+    /*  */
+    margin: 10px 10px 0px 10px;
+    padding: 5px 20px 20px 20px;
+    float: left;
+}
+
+#wrap_headcontent .content span {
+
+    color: #db6516;
+    font-size: 20px;
+    line-height: 200%;
+    /* margin: 0 10px ; */
+}
+
+#wrap_headcontent .content p {
+    font-size: 12px;
+}
+
+.content {
+    width: 100%;
+    float: left;
+}
+#left_content {
+    width: 340px;
+    min-height: 610px;
+    margin: 10px;
+    padding: 12px;
+
+    float: left;
+    background: -moz-linear-gradient(top, #fff 15%, #cfcabe 55% ) no-repeat;
+    background: -webkit-linear-gradient(top, #fff 15%, #cfcabe 55% ) no-repeat;
+}
+#right_content {
+    width: 580px;
+    float: left;
+    padding: 40px;
+    min-height: 610px;
+    margin: 10px;
+}
+
+#right_content .category_content {
+    width: 500px;
+    float: left;
+
+}
+
+#right_content .category_content span {
+    width: 100%;
+    font-size: 34px;
+    color: #db6516;
+
+}
+#right_content .category_content p {
+    width: 100%;
+    font-size: 20px;
+
+    margin: 20px 0;
+}
+#right_content .article_content {
+    float: left;
+    width: 500px;
+    margin-top: 20px;
+
+}
+#right_content .article_content .image_column {
+    width: 140px;
+    height: 87px;
+    float: left;
+    /* padding: 0 20px; */
+}
+#right_content .article_content .image_column img {
+    width: 100%;
+    border-radius: 11px;
+    box-shadow: 1px 1px 2px black;
+
+}
+
+#right_content .article_content .text_column {
+
+    width: 360px;
+    float: left;
+    padding: 0 0 0 20px;
+}
+#right_content .article_content .text_column p {
+    font-size: 12px;
+}
+
+#right_content .article_content .text_column a {
+
+}
+#right_content .article_content .text_column span {
+
+}
+
+footer {
+    width: 100%;
+    background: url("../images/footer.png");
+    height: 315px;
+    position: fixed;
+    bottom: 0px;
+
+}
+
+.footer_content {
+    width: 960px;
+    margin: 0 auto;
+    padding: 275px 10px 0 10px;
+}
+
+.footer_content .left_footer {
+
+    width: 340px;
+
+    float: left;
+
+    height: 30px;
+}
+.footer_content .right_footer {
+
+    float: right;
+
+    color: white;
+}
+
+#txtSearch {
+    width: 262px;
+    height: 30px;
+    float: left;
+    border: none;
+    background: #e8d3a5;
+    border-radius: 15px 0 0 15px;
+}
+
+#btnSearch {
+    width: 77px;
+    height: 30px;
+    border-radius: 0 15px 15px 0;
+    background-color: #db6516;
+    color: white;
+    cursor: pointer;
+    border: none;
+}

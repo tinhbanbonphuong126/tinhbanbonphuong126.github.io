@@ -1,0 +1,184 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+}
+
+#nhom9 {
+	width: 1300px;
+	/* height: 1300px; */
+	margin: 0 auto;
+	background: #cc99ff;
+	position: relative;
+}
+
+
+#header {
+	height: 150px;
+	width: 1300px;
+	background: #cccc;
+	position: relative;
+
+}
+
+#logo {
+	float: left;
+	margin: 20px auto auto 30px;
+	position: absolute;
+
+}
+#search-box {
+	float: right;
+	margin: 30px 30px auto auto;
+
+}
+#nav {
+	width: 1300px;
+	height: 70px;
+	background: #000;
+
+}
+
+#menu ul li {
+	float: left;
+	list-style: none;	
+
+}
+#menu ul li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 20px;
+	color: #fff;
+	line-height: 68px;
+
+}
+
+#login {
+	float: right;
+	margin: 30px 20px auto auto;
+
+}
+#login ul {
+
+
+}
+#login ul li {
+	float: right;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: bold;
+	list-style: none;
+	line-height: 10px;
+	padding: 10px;
+
+
+
+}
+#login ul li a {
+	text-decoration: none;
+	color: #fff;
+
+}
+
+#slide {
+	height: 400px;
+	width: 1200px;
+	background: lightblue;
+	margin: auto;
+}
+
+#content {
+	width: 1000px;
+	margin: auto;
+
+}
+
+#promo {
+	height: 250px;
+	width: 1000px;
+	margin-top: 10px;
+}
+
+#title {
+	float: left;
+	border-bottom: 7px solid red;
+	width: 1000px;
+}
+
+#title h2 {
+	color: black;
+	font-size: 	17px;
+
+}
+
+#promoimg {
+	margin: 5px auto auto 5px;
+
+
+}
+
+.promoimg {
+	margin: 5px 14px auto 30px;
+}
+
+.product {
+	width: 1000px;
+	/* height: 600px; */
+}
+
+.producttitle {
+	height: 30px;
+	width: 1000px;
+	border-bottom: 7px solid red;
+}
+.producttitle h3 {
+	float: left;
+}
+.producttitle h5 {
+	float: right;
+}
+
+.productimg {
+	width: 1000px;
+	/* height: 400px; */
+}
+.sp {
+	margin: 5px 6px 5px 5px;
+}
+
+#ads {
+	height: 60px;
+	width: 1000px;
+	margin: 20px auto 50px auto;
+}
+
+
+
+
+
+
+
+
+.clr {
+	clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
