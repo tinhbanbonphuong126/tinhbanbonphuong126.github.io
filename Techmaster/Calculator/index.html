@@ -135,11 +135,22 @@ var kqts = "";
 // Lặp qua từng phần tử trong kết quả và gán sự kiện
 for (var i = 0; i < button.length; i++)
 {
-	(function (i) {
+
 
 	vl_button[i]  = document.getElementsByTagName('button')[i].innerHTML;
-	button[i].addEventListener('click', function(){
-		var btn = vl_button[i];
+	button[i].addEventListener('click', function(num){
+		return function () {
+		var btn = vl_button[num];
+
+
+
+
+
+	// (function (i) {
+
+	// vl_button[i]  = document.getElementsByTagName('button')[i].innerHTML;
+	// button[i].addEventListener('click', function(){
+	// 	var btn = vl_button[i];
 		// Ham tinh can bac 2 
 	if(btn !== "=") 
 	{
@@ -260,10 +271,13 @@ for (var i = 0; i < button.length; i++)
 
 
 
-	});
+	};
 
 	}(i));
 }	
+
+
+
 
 		function giaithua (n){
 			  if (n==0 || n==1){
