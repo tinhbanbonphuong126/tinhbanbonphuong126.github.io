@@ -102,7 +102,7 @@ header {
     float: left;
     /* padding: 10px; */
     width: 100%;
-    margin-top: 73px;
+    margin-top: 71px;
     background: url("../images/head-rep.jpg");
     /*  */
 }
@@ -252,3 +252,7 @@ footer {
     cursor: pointer;
     border: none;
 }
+
+/*animation*/
+.neoslideshow {position:relative; width:750px; height:300px; z-index: -100}
+.neoslideshow img {position:absolute;left:0; top:0;}
