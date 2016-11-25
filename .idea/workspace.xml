@@ -4,8 +4,6 @@
     <list default="true" id="c0f19888-1ed7-4eae-9d50-a892bac2b8e8" name="Default" comment="Update">
       <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Test\ test.html " afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html" afterPath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/script.js" afterPath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/style.css" afterPath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tinhbanbonphuong126.github.io.iws" />
@@ -36,8 +34,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.63065326" vertical-offset="21" max-vertical-offset="459">
-                  <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+                <state vertical-scroll-proportion="0.38442212" vertical-offset="0" max-vertical-offset="476">
+                  <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
@@ -72,8 +70,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html" />
         <option value="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/script.js" />
+        <option value="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html" />
       </list>
     </option>
   </component>
@@ -310,8 +308,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63065326" vertical-offset="21" max-vertical-offset="459">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.38442212" vertical-offset="0" max-vertical-offset="476">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding />
         </state>
       </provider>
