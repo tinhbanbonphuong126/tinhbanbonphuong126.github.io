@@ -21,7 +21,7 @@ var questions = [{
 }];
 
 
-
+// common varialbe
 var currentQuestion = 0;
 var correctAnswers = 0;
 var quizOver = false;
@@ -31,12 +31,15 @@ $(document).ready(function () {
     displayCurrentQuestion();
     $(this).find('.result').hide();
 
+
+
+
+
+
+
 });
 
-
-
-
-// function define    
+// function define Hello
 function displayCurrentQuestion() {
     console.log("In display current Question");
 

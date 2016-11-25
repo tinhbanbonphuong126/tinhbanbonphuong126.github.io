@@ -2,1165 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0f19888-1ed7-4eae-9d50-a892bac2b8e8" name="Default" comment="Update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/112.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/141.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/1476113647018_18898.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/1476113670822_18899.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/1476113745698_18902.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/1476113774907_18903.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/42.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/52.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/92.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/images/Acer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/images/Apple.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/images/Asus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/DSF13411.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/DSF1347.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/DSF1348.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/DSF1354.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/DSF2709.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/DSF27151.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/images/Dell.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/images/Favico.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Giftcard/Feliz Navidad - Boney M.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/images/HP.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8737.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8739.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8741.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8742.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8743.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8744.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8745.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8749.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8751.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8752.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8753.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8754.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_87551.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8756.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_87581.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8761.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8762.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8764.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8766.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8768.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8771.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8772.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8773.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8774.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8775.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8778.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/IMG_8780.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/images/Lenovo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/images/MSI.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/banner/Mount.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/public/images/Picture.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Poisition/public/images/Picture.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/images/Samsung.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/images/Sonyvaio.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/images/Toshiba.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/ajax_clock_small.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Animation/publics/images/anime1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Animation/publics/images/anime2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Animation/publics/images/anime3.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Animation/publics/images/anime4.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Animation/publics/images/anime5.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Animation/publics/images/anime6.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/public/images/avatar.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Poisition/public/images/back-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/banner-body.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/banner-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/public/images/banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/images/banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-all.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-button-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-button-food-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-content-home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-cook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-food.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-header-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-hedding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-order-table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-restaurant-center.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg-service.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg_content_mid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg_list_od.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/bg_viewmore.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/public/images/birds.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/border-restaurant-center.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/box-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/public/images/chat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Poisition/public/images/chat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/cleardot.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/cleardot.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/colorpicker.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/colorpicker.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/content-home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/dot.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/banner/dsc_1396.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template_files/featured.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/public/images/flower.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Giftcard/images/gift.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template_files/great-hairstyle.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template_files/hairstyle17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template_files/hairstyle18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template_files/hairstyle19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template_files/hairstyle20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Poisition/public/images/header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/hotline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/icon-adr-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/icon-adr-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/icon-adr-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/icon-adr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/icon-cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/icon-en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/icon-hung.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/icon-phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/icon-time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/icon-vn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/1dashboard/images.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/img-demo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/img-restaurant-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/img-restaurant-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/img-restaurant-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/line-service.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Poisition/public/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/1dashboard/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/logo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/logo3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/logo_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/nav-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Poisition/public/images/nav-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/public/images/portraits.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/s_collapseall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/banner/sakura-banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/search_box_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/search_box_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template_files/skinhead.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/banner/slider-main.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/banner/slider-main1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/slider-order.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/small-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/small-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_02404248816faa7b14d511c173a007dc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_0407cdde20429b8fea6eb3adef6c6064.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_05da0b1673fd9946802e24d5cf3525ce.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_07bf7793a4e3bae4b794d2e105cf4fc0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_0953b84ec4024a13d21b1d7b2e671321.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_0ab300aca6bb7d255c5e8d8e2ac0aa7b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_0c142de2894bc3eadd39332d0b25418d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/14102016/thumbnail_1_0c18dfc62a851aaba0a978fad4e4b280.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_0e81cdc5dd2c8bbb75c9077a99451599.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/14102016/thumbnail_1_0e9869af81e769dd4286107791dbff5b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_12f0e2a2a630c85147339ddb3425311f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_14a8dc965332498a28ef6542a88f0c96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_159ba04aaeebe50dabe901d853881f6b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_160db92b5393f34556873ed3803e2aaa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_1630d7765b423cc2b32ba4ac090a9b06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_17c6c92d6a3028b0fa3fdf0ced535e91.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_18fd8338d0f073cbf57383f550cd70fe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_19683bc6d9c9a717b1159666759314f0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_1bbb3157e6071a2fb68bead2739c3d14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_1dcef5140a8aadffd21036551a125788.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_2088664b242cd4b74a3b40a2aeb1143a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_2241c2947101af516e5e010c519e52a2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_23eb81436af76b13e10892f416604cb8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_278fb8ba64944c24f452696578e5efaa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_28717022a4aa3abce79fe8363c0a393c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_294f59ccbb62d6e1376ee5e4a1f768c2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_2a9e43dc4417f42802b039d746a9c421.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_2aa40946580f1045f39a0a7ff488b4df.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_2ab5592c5cfa3bb4fdfebe42e74502f9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_2ed6f4b5ca6b11c133c2dd0dbd96b294.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_2ef6e5ca8b48043e27f50f3788fe4094.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_3021389992b9567755d258aede452942.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_32c5f33f571769bb53b0702b090fa6b8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_3ac46405c96aa71a3b9effe24e836783.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_3be9572c4902dc432a4a0af50d8887fe.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_3ecb1e4671b2fe0c2fb9ddbe1122651f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_40628c1b8d63a339cde3974b24d3c602.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_4367488c222cfd7e8dba0a6e5ba8b5d8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_43dbbc253f5c49ce7775c57ebb077ef8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/29102016/thumbnail_1_47893e0745447aca9da7f33758b0c1a7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_49e0ffd7ab8eb2fa89d2ce272bcddc60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/29102016/thumbnail_1_4a55139adfb04c8e9cbf436fac60955a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_4ad485e43286cb5a2173376898d546e1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_4aec24ef945d8a5121ac01f4799f3f2b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_4ea9944d3bd1a56a0a158940a5b03edf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_4eeb348eba642e2265fb8cb6d69d792d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_50e1d260a3c3a567f62db4cec1ab483d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_54d36b3e000f204b92cbc692301ca11e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_58d769bc720046c313a7070727e51288.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_58de37fb07cecb482cc6080b4f73e8ea.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_5b4b95f623755606ce236af9619fa067.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/14102016/thumbnail_1_5ccb31ea86fe15f5a383414901567626.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_6082454d21cde0811b2ca4932470d2e0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_6665f415785730ff3625d4a15e6f7b7d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_68903fd2181cfeee741e4c44d8a44356.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_6918c14253e830ac264328cf9c5f3c0c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_69c7b07082b78a438c0df6b9bf112707.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_6a03a031b564988230bc42e0d1417c2a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_6b5201e1f70a266b19b0db6674530e62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_6b6ff877953028453fbbb2b24eb28dff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_6b762f9fb7d199cffe654784846074f9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_6c2a28e60ef690d4a1536f09f797f5db.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_6d8ec404f6033813ce83707611016853.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_6dc0fd762cdc8b2a2834b4034cb6b319.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_6f6fd09521797902caa6dc8941cc39b6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_7170ead9567f2bfd9a9aeb85f982e73b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_71cfe49733d3de827457485f9bcb4144.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_72d27637d2e7b73d2791e1d9260df23a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_7730afc4aa84f777a4c1922e9dceb285.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_77e95ad7f0a3d248cba752dc8b37ff58.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_78080ec31c77dbdc369c63d09fddf73d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_7842fcc387009d3357eea754fc2d6aad.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_80d3f712c7f432a2fa5638e00f785473.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_8188aebfb3963b3aff98f411b2f4ca88.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_818ea1023cab1880c68451c49f018b63.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_82d76fc07053076ff9be6d613149ab3a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_849d17466203f78c5812693ab7faf0f0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_85bc5a88df675ea8d069a417a138d08c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_85f3237ddfec4af20aed3fe72a86eee2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_86020c5ca7c0db528c3af599e3d9926d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_874ce99ca7f596b7ce19437bd4f67abc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_8811821c6f5e220a2598c2a1b5ace8db.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_887667aca1f9a647228581a43f52b0dd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_88acb92b87c6b7e4b95b7686af057095.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_8b2763bce8888b7f353fc6552715f3fd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_8be8495382ca067a5bb81535b8785fd9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_8c106bf989f934592d3611d9f01e7479.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_8d898c436959275e10fddd026ea522dc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_8e3d8005386eaf2a0e5d98e01f0f7511.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_90cbe7e7939a6063286895393ae9208a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_92fea50fc6879680198c8486b50d3056.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_930d188153027f4c014555ec6f8de9dd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_952a255cd52de0967fb8dc871f3e18d5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_963fd7fd653cf91c702cabccdadafe6c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_96a867367dc2e4fbb5f57df2626854e1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_9726ad530c468a04b5e569a6958e3810.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_99ec8894814d1a48dc74647b211dd87e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_9a9243ef736f617a4dc34e8a1c3079eb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_9b797dbc3e23d0281efae6efac99d5e2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_9c18e96cc5d3256c8772aa4c20865aec.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_9e7281aee765cb2e98b6b8d92197449d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_9eb18be7d3eac1c814a285bcd87515c3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_9f6aedff47c24d0c8b72bd3673d906ba.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_9fca2c1f5089c611807c35153762b20b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/14102016/thumbnail_1_a4d42d4715926bc84d945d4d88e489a1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_a53d1eb72efcc654d02cd62aa9a124c5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_a54ea3b177f930d905bbf64c32178cdb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_a55ebda35ba57f3d053b3443a792c4c9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_a62c914b5eb6ed52673f713905c0a301.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_a8b959bd749ebecaa87ee372f5943cc9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_a93bf2e8301623458ad2312cf87038bf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_a9e58ded46fd0f640e6e7a369bde1050.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_aa7bc14a447243273ef264ec27b5483d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_b31f6f520de58e872e57596913e649bc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_b4213a814204322aea151bedcd7f0beb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_b735be0bb8eefcc9b86f1d4e4bbdea92.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_b7836ef4624e59896987f07d3f055243.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_b7b4682d751d21ae7f4fc694a8a1aa39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_b8a77f2bc9199ce339eb72288b4ab975.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/29102016/thumbnail_1_b9bff0f48ba9da2dfb3479d63f4f07f4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_be090823230ca36b7a99a591c44fe34b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_be6867a6b5da33cbe269804d0a3dbf8e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_c306a0ff9be343c2a9052000c405f53d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_c32b2fdd2784c1e5dac55548331b39e3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_c373e93353ad29481f7ebf104c8d584f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_c378903bb5f3d7fa5d485b103f1bbb8d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_c9b71c74944ec2dc156f7949e905033f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_d01d54e53fa523bb8d30b9784a454b2f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_d1eac3ce83282b01052dd991f41941ae.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_d28fe2fe0dd0aebb03ad5b13184319b9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_d31359f524f212788bfb78f1f671d905.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_d3c782bd2c2f8014f4998b84047cf56e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_d509bbca4c66aed95c95954fb8dc863b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/05112016/thumbnail_1_d7f3f04a49494d2ce8ad02a139ad2380.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_d81a29ea2ca99784874783e05322a351.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_d964a51ce192942a6280913f470f74de.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_da5234251d56d818fc0c7a6261f1a399.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_dc7e99807e19f47b79e568f530763b22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_dc8adf5927577d69a764aa8c57c9b2b1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/14102016/thumbnail_1_dcad49b233a8bdd4d5a9b06582850e77.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_e351aee15dc6fac0bf2c38bfdad2d2fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_e81282c6c3b7658df23b5dbce9d36227.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_e821df3a19c1fe44be5d6d8d5604c3e9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_1_e93389d7823a8f1f8f4e5ed2a9a01029.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_ea184f063af952fa423f87106677d309.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_ebb2d3efad3f245f52d7bcc07c61950d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_f353a581326716b9a9bb1f1556c11571.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_1_f3d8e75c84f24309581e9e2a29e28a03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/29102016/thumbnail_1_f4b100bfc4e6185124f528036a6774a2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_f4eba837af2f768067848d0e9347bacd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_f867b97064ba227198468ccb40f1a12a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_1_f8a9d0f4986841db2431598e6940a6f6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_1_fa8c203d51f99a8d64492d2b0e144688.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/14102016/thumbnail_1_fb7a49dbfa469784985f6343e8bca2d1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_02404248816faa7b14d511c173a007dc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_0407cdde20429b8fea6eb3adef6c6064.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_05da0b1673fd9946802e24d5cf3525ce.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_07bf7793a4e3bae4b794d2e105cf4fc0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_0953b84ec4024a13d21b1d7b2e671321.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_0ab300aca6bb7d255c5e8d8e2ac0aa7b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_0c142de2894bc3eadd39332d0b25418d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/14102016/thumbnail_2_0c18dfc62a851aaba0a978fad4e4b280.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_0e81cdc5dd2c8bbb75c9077a99451599.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/14102016/thumbnail_2_0e9869af81e769dd4286107791dbff5b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_12f0e2a2a630c85147339ddb3425311f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_14a8dc965332498a28ef6542a88f0c96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_159ba04aaeebe50dabe901d853881f6b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_160db92b5393f34556873ed3803e2aaa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_1630d7765b423cc2b32ba4ac090a9b06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_17c6c92d6a3028b0fa3fdf0ced535e91.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_18fd8338d0f073cbf57383f550cd70fe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_19683bc6d9c9a717b1159666759314f0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_1bbb3157e6071a2fb68bead2739c3d14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_1dcef5140a8aadffd21036551a125788.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_2088664b242cd4b74a3b40a2aeb1143a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_2241c2947101af516e5e010c519e52a2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_23eb81436af76b13e10892f416604cb8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_278fb8ba64944c24f452696578e5efaa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_28717022a4aa3abce79fe8363c0a393c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_294f59ccbb62d6e1376ee5e4a1f768c2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_2a9e43dc4417f42802b039d746a9c421.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_2aa40946580f1045f39a0a7ff488b4df.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_2ab5592c5cfa3bb4fdfebe42e74502f9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_2ed6f4b5ca6b11c133c2dd0dbd96b294.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_2ef6e5ca8b48043e27f50f3788fe4094.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_3021389992b9567755d258aede452942.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_32c5f33f571769bb53b0702b090fa6b8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_3ac46405c96aa71a3b9effe24e836783.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_3be9572c4902dc432a4a0af50d8887fe.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_3ecb1e4671b2fe0c2fb9ddbe1122651f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_40628c1b8d63a339cde3974b24d3c602.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_4367488c222cfd7e8dba0a6e5ba8b5d8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_43dbbc253f5c49ce7775c57ebb077ef8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/29102016/thumbnail_2_47893e0745447aca9da7f33758b0c1a7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_49e0ffd7ab8eb2fa89d2ce272bcddc60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/29102016/thumbnail_2_4a55139adfb04c8e9cbf436fac60955a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_4ad485e43286cb5a2173376898d546e1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_4aec24ef945d8a5121ac01f4799f3f2b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_4ea9944d3bd1a56a0a158940a5b03edf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_4eeb348eba642e2265fb8cb6d69d792d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_50e1d260a3c3a567f62db4cec1ab483d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_54d36b3e000f204b92cbc692301ca11e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_58d769bc720046c313a7070727e51288.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_58de37fb07cecb482cc6080b4f73e8ea.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_5b4b95f623755606ce236af9619fa067.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/14102016/thumbnail_2_5ccb31ea86fe15f5a383414901567626.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_6082454d21cde0811b2ca4932470d2e0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_6665f415785730ff3625d4a15e6f7b7d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_68903fd2181cfeee741e4c44d8a44356.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_6918c14253e830ac264328cf9c5f3c0c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_69c7b07082b78a438c0df6b9bf112707.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_6a03a031b564988230bc42e0d1417c2a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_6b5201e1f70a266b19b0db6674530e62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_6b6ff877953028453fbbb2b24eb28dff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_6b762f9fb7d199cffe654784846074f9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_6c2a28e60ef690d4a1536f09f797f5db.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_6d8ec404f6033813ce83707611016853.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_6dc0fd762cdc8b2a2834b4034cb6b319.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_6f6fd09521797902caa6dc8941cc39b6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_7170ead9567f2bfd9a9aeb85f982e73b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_71cfe49733d3de827457485f9bcb4144.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_72d27637d2e7b73d2791e1d9260df23a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_7730afc4aa84f777a4c1922e9dceb285.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_77e95ad7f0a3d248cba752dc8b37ff58.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_78080ec31c77dbdc369c63d09fddf73d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_7842fcc387009d3357eea754fc2d6aad.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_80d3f712c7f432a2fa5638e00f785473.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_8188aebfb3963b3aff98f411b2f4ca88.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_818ea1023cab1880c68451c49f018b63.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_82d76fc07053076ff9be6d613149ab3a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_849d17466203f78c5812693ab7faf0f0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_85bc5a88df675ea8d069a417a138d08c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_85f3237ddfec4af20aed3fe72a86eee2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_86020c5ca7c0db528c3af599e3d9926d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_874ce99ca7f596b7ce19437bd4f67abc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_8811821c6f5e220a2598c2a1b5ace8db.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_887667aca1f9a647228581a43f52b0dd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_88acb92b87c6b7e4b95b7686af057095.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_8b2763bce8888b7f353fc6552715f3fd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_8be8495382ca067a5bb81535b8785fd9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_8c106bf989f934592d3611d9f01e7479.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_8d898c436959275e10fddd026ea522dc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_8e3d8005386eaf2a0e5d98e01f0f7511.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_90cbe7e7939a6063286895393ae9208a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_92fea50fc6879680198c8486b50d3056.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_930d188153027f4c014555ec6f8de9dd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_952a255cd52de0967fb8dc871f3e18d5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_963fd7fd653cf91c702cabccdadafe6c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_96a867367dc2e4fbb5f57df2626854e1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_9726ad530c468a04b5e569a6958e3810.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_99ec8894814d1a48dc74647b211dd87e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_9a9243ef736f617a4dc34e8a1c3079eb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_9b797dbc3e23d0281efae6efac99d5e2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_9c18e96cc5d3256c8772aa4c20865aec.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_9e7281aee765cb2e98b6b8d92197449d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_9eb18be7d3eac1c814a285bcd87515c3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_9f6aedff47c24d0c8b72bd3673d906ba.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_9fca2c1f5089c611807c35153762b20b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/14102016/thumbnail_2_a4d42d4715926bc84d945d4d88e489a1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_a53d1eb72efcc654d02cd62aa9a124c5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_a54ea3b177f930d905bbf64c32178cdb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_a55ebda35ba57f3d053b3443a792c4c9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_a62c914b5eb6ed52673f713905c0a301.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_a8b959bd749ebecaa87ee372f5943cc9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_a93bf2e8301623458ad2312cf87038bf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_a9e58ded46fd0f640e6e7a369bde1050.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_aa7bc14a447243273ef264ec27b5483d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_b31f6f520de58e872e57596913e649bc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_b4213a814204322aea151bedcd7f0beb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_b735be0bb8eefcc9b86f1d4e4bbdea92.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_b7836ef4624e59896987f07d3f055243.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_b7b4682d751d21ae7f4fc694a8a1aa39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_b8a77f2bc9199ce339eb72288b4ab975.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/29102016/thumbnail_2_b9bff0f48ba9da2dfb3479d63f4f07f4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_be090823230ca36b7a99a591c44fe34b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_be6867a6b5da33cbe269804d0a3dbf8e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_c306a0ff9be343c2a9052000c405f53d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_c32b2fdd2784c1e5dac55548331b39e3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_c373e93353ad29481f7ebf104c8d584f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_c378903bb5f3d7fa5d485b103f1bbb8d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_c9b71c74944ec2dc156f7949e905033f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_d01d54e53fa523bb8d30b9784a454b2f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_d1eac3ce83282b01052dd991f41941ae.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_d28fe2fe0dd0aebb03ad5b13184319b9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_d31359f524f212788bfb78f1f671d905.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_d3c782bd2c2f8014f4998b84047cf56e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_d509bbca4c66aed95c95954fb8dc863b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/05112016/thumbnail_2_d7f3f04a49494d2ce8ad02a139ad2380.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_d81a29ea2ca99784874783e05322a351.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_d964a51ce192942a6280913f470f74de.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_da5234251d56d818fc0c7a6261f1a399.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_dc7e99807e19f47b79e568f530763b22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_dc8adf5927577d69a764aa8c57c9b2b1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/14102016/thumbnail_2_dcad49b233a8bdd4d5a9b06582850e77.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_e351aee15dc6fac0bf2c38bfdad2d2fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_e81282c6c3b7658df23b5dbce9d36227.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_e821df3a19c1fe44be5d6d8d5604c3e9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/18102016/thumbnail_2_e93389d7823a8f1f8f4e5ed2a9a01029.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_ea184f063af952fa423f87106677d309.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_ebb2d3efad3f245f52d7bcc07c61950d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_f353a581326716b9a9bb1f1556c11571.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/15102016/thumbnail_2_f3d8e75c84f24309581e9e2a29e28a03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/29102016/thumbnail_2_f4b100bfc4e6185124f528036a6774a2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_f4eba837af2f768067848d0e9347bacd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_f867b97064ba227198468ccb40f1a12a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/21102016/thumbnail_2_f8a9d0f4986841db2431598e6940a6f6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/22102016/thumbnail_2_fa8c203d51f99a8d64492d2b0e144688.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/14102016/thumbnail_2_fb7a49dbfa469784985f6343e8bca2d1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/translate_24dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/translate_24dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/public/images/trees.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/up-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/view-more.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/w3schoolscom_gray.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/w3schoolscom_gray.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/Acer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/Apple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/Asus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/Dell.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/Flower.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/HP.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/Lenovo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/MSI.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/Samsung.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/Sonyvaio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/Toshiba.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/birds.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/codemirror.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/cse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/cse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/datban.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/default+en.I.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/default+en.I.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/default+en.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/default+en.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/dichvu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/element_main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/element_main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/1dashboard/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/1dashboard/general.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/get_image.js.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/get_scripts.js(1).php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/get_scripts.js(2).php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/get_scripts.js(3).php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/get_scripts.js.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/gioithieu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/gpt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/gpt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Animation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Giftcard/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Javascript/dom/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Poisition/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/jQuery/Calculator/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ung-dung-da-cap/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/1dashboard/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/jQuery/Calculator/javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template_files/jquery-1.11.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/jquery-ui-1.11.2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/jsapi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/jsapi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/khonggian.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/lienhe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/lint.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/public/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Poisition/public/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/main_vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/main_vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/messages.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/mon1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/phpmyadmin.css.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template_files/piwik.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/portraits.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template_files/previews.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/printview.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/public/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Poisition/public/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ung-dung-da-cap/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/1dashboard/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/css/resetdefault.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/saved_resource.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/saved_resource.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/show-hint.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Animation/publics/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Giftcard/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Poisition/public/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/jQuery/Calculator/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ung-dung-da-cap/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/1dashboard/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/thucdon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/13102016/thumbnail_1_.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/img/products/13102016/thumbnail_2_.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/tinhbanbonphuong126.github.io.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Restaurant/tintuc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/translateelement.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/translateelement.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/trees.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/w3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/w3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/sort_files/w3schools_footer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/splice_files/w3schools_footer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files/whitelist.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ZiZurz Website Template_files/xenforo.js" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\T3H\1dashboard\font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\T3H\1dashboard\general.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\T3H\1dashboard\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\T3H\1dashboard\reset.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\T3H\1dashboard\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Animation\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Animation\publics\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Animation\publics\images\anime1.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Animation\publics\images\anime2.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Animation\publics\images\anime3.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Animation\publics\images\anime4.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Animation\publics\images\anime5.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Animation\publics\images\anime6.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Calculator\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Calculator\javascript.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Calculator\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Giftcard\Feliz Navidad - Boney M.mp3" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Giftcard\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Giftcard\images\gift.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Giftcard\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery.rar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery.zip" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\Flower.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\birds.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\portraits.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\public\css\main.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\public\css\reset.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\public\images\Picture.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\public\images\avatar.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\public\images\banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\public\images\birds.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\public\images\chat.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\public\images\flower.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\public\images\portraits.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\public\images\trees.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ImageGallery\trees.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Javascript\dom\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image.rar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\Acer.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\Apple.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\Asus.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\Dell.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\HP.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\Lenovo.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\MSI.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\Samsung.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\Sonyvaio.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\Toshiba.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\css\main.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\css\reset.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\images\Acer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\images\Apple.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\images\Asus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\images\Dell.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\images\Favico.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\images\HP.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\images\Lenovo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\images\MSI.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\images\Samsung.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\images\Sonyvaio.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\images\Toshiba.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\images\banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Link-image\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Poisition\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Poisition\public\css\main.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Poisition\public\css\reset.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Poisition\public\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Poisition\public\images\Picture.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Poisition\public\images\back-top.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Poisition\public\images\chat.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Poisition\public\images\header.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Poisition\public\images\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Poisition\public\images\nav-right.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\css\font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\css\font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\css\reset.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\css\resetdefault.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\datban.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\dichvu.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\gioithieu.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\112.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\141.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\1476113647018_18898.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\1476113670822_18899.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\1476113745698_18902.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\1476113774907_18903.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\15.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\22.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\32.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\42.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\52.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\62.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\72.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\92.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\DSF13411.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\DSF1347.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\DSF1348.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\DSF1354.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\DSF2709.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\DSF27151.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8737.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8739.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8741.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8742.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8743.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8744.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8745.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8749.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8751.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8752.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8753.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8754.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_87551.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8756.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_87581.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8761.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8762.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8764.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8766.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8768.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8771.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8772.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8773.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8774.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8775.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8778.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\IMG_8780.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\banner-body.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\banner-top.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\banner\Mount.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\banner\dsc_1396.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\banner\sakura-banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\banner\slider-main.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\banner\slider-main1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-all.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-button-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-button-food-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-button.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-content-home.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-cook.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-food.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-footer.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-header-top.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-hedding.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-order-table.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-restaurant-center.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg-service.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg_content_mid.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg_list_od.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\bg_viewmore.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\border-restaurant-center.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\box-img.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\content-home.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\dot.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\hotline.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\icon-adr-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\icon-adr-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\icon-adr-4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\icon-adr.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\icon-cart.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\icon-en.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\icon-hung.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\icon-phone.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\icon-time.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\icon-vn.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\img-demo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\img-restaurant-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\img-restaurant-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\img-restaurant-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\left.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\line-service.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\logo1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\logo3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\05112016\thumbnail_1_d7f3f04a49494d2ce8ad02a139ad2380.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\05112016\thumbnail_2_d7f3f04a49494d2ce8ad02a139ad2380.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\13102016\thumbnail_1_.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\13102016\thumbnail_2_.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\14102016\thumbnail_1_0c18dfc62a851aaba0a978fad4e4b280.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\14102016\thumbnail_1_0e9869af81e769dd4286107791dbff5b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\14102016\thumbnail_1_5ccb31ea86fe15f5a383414901567626.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\14102016\thumbnail_1_a4d42d4715926bc84d945d4d88e489a1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\14102016\thumbnail_1_dcad49b233a8bdd4d5a9b06582850e77.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\14102016\thumbnail_1_fb7a49dbfa469784985f6343e8bca2d1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\14102016\thumbnail_2_0c18dfc62a851aaba0a978fad4e4b280.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\14102016\thumbnail_2_0e9869af81e769dd4286107791dbff5b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\14102016\thumbnail_2_5ccb31ea86fe15f5a383414901567626.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\14102016\thumbnail_2_a4d42d4715926bc84d945d4d88e489a1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\14102016\thumbnail_2_dcad49b233a8bdd4d5a9b06582850e77.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\14102016\thumbnail_2_fb7a49dbfa469784985f6343e8bca2d1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_0407cdde20429b8fea6eb3adef6c6064.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_0ab300aca6bb7d255c5e8d8e2ac0aa7b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_18fd8338d0f073cbf57383f550cd70fe.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_2088664b242cd4b74a3b40a2aeb1143a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_23eb81436af76b13e10892f416604cb8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_294f59ccbb62d6e1376ee5e4a1f768c2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_2aa40946580f1045f39a0a7ff488b4df.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_2ef6e5ca8b48043e27f50f3788fe4094.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_4367488c222cfd7e8dba0a6e5ba8b5d8.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_4ad485e43286cb5a2173376898d546e1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_72d27637d2e7b73d2791e1d9260df23a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_7730afc4aa84f777a4c1922e9dceb285.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_8188aebfb3963b3aff98f411b2f4ca88.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_82d76fc07053076ff9be6d613149ab3a.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_963fd7fd653cf91c702cabccdadafe6c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_9b797dbc3e23d0281efae6efac99d5e2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_a53d1eb72efcc654d02cd62aa9a124c5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_aa7bc14a447243273ef264ec27b5483d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_b7b4682d751d21ae7f4fc694a8a1aa39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_b8a77f2bc9199ce339eb72288b4ab975.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_d31359f524f212788bfb78f1f671d905.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_ea184f063af952fa423f87106677d309.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_1_f3d8e75c84f24309581e9e2a29e28a03.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_0407cdde20429b8fea6eb3adef6c6064.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_0ab300aca6bb7d255c5e8d8e2ac0aa7b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_18fd8338d0f073cbf57383f550cd70fe.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_2088664b242cd4b74a3b40a2aeb1143a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_23eb81436af76b13e10892f416604cb8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_294f59ccbb62d6e1376ee5e4a1f768c2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_2aa40946580f1045f39a0a7ff488b4df.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_2ef6e5ca8b48043e27f50f3788fe4094.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_4367488c222cfd7e8dba0a6e5ba8b5d8.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_4ad485e43286cb5a2173376898d546e1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_72d27637d2e7b73d2791e1d9260df23a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_7730afc4aa84f777a4c1922e9dceb285.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_8188aebfb3963b3aff98f411b2f4ca88.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_82d76fc07053076ff9be6d613149ab3a.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_963fd7fd653cf91c702cabccdadafe6c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_9b797dbc3e23d0281efae6efac99d5e2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_a53d1eb72efcc654d02cd62aa9a124c5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_aa7bc14a447243273ef264ec27b5483d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_b7b4682d751d21ae7f4fc694a8a1aa39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_b8a77f2bc9199ce339eb72288b4ab975.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_d31359f524f212788bfb78f1f671d905.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_ea184f063af952fa423f87106677d309.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\15102016\thumbnail_2_f3d8e75c84f24309581e9e2a29e28a03.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_0c142de2894bc3eadd39332d0b25418d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_159ba04aaeebe50dabe901d853881f6b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_1630d7765b423cc2b32ba4ac090a9b06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_278fb8ba64944c24f452696578e5efaa.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_2a9e43dc4417f42802b039d746a9c421.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_32c5f33f571769bb53b0702b090fa6b8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_3ac46405c96aa71a3b9effe24e836783.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_3be9572c4902dc432a4a0af50d8887fe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_4ea9944d3bd1a56a0a158940a5b03edf.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_7842fcc387009d3357eea754fc2d6aad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_86020c5ca7c0db528c3af599e3d9926d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_8b2763bce8888b7f353fc6552715f3fd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_8be8495382ca067a5bb81535b8785fd9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_9fca2c1f5089c611807c35153762b20b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_c378903bb5f3d7fa5d485b103f1bbb8d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_d3c782bd2c2f8014f4998b84047cf56e.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_e821df3a19c1fe44be5d6d8d5604c3e9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_1_e93389d7823a8f1f8f4e5ed2a9a01029.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_0c142de2894bc3eadd39332d0b25418d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_159ba04aaeebe50dabe901d853881f6b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_1630d7765b423cc2b32ba4ac090a9b06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_278fb8ba64944c24f452696578e5efaa.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_2a9e43dc4417f42802b039d746a9c421.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_32c5f33f571769bb53b0702b090fa6b8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_3ac46405c96aa71a3b9effe24e836783.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_3be9572c4902dc432a4a0af50d8887fe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_4ea9944d3bd1a56a0a158940a5b03edf.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_7842fcc387009d3357eea754fc2d6aad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_86020c5ca7c0db528c3af599e3d9926d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_8b2763bce8888b7f353fc6552715f3fd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_8be8495382ca067a5bb81535b8785fd9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_9fca2c1f5089c611807c35153762b20b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_c378903bb5f3d7fa5d485b103f1bbb8d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_d3c782bd2c2f8014f4998b84047cf56e.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_e821df3a19c1fe44be5d6d8d5604c3e9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\18102016\thumbnail_2_e93389d7823a8f1f8f4e5ed2a9a01029.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_02404248816faa7b14d511c173a007dc.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_05da0b1673fd9946802e24d5cf3525ce.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_07bf7793a4e3bae4b794d2e105cf4fc0.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_0953b84ec4024a13d21b1d7b2e671321.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_12f0e2a2a630c85147339ddb3425311f.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_14a8dc965332498a28ef6542a88f0c96.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_19683bc6d9c9a717b1159666759314f0.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_2241c2947101af516e5e010c519e52a2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_2ab5592c5cfa3bb4fdfebe42e74502f9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_2ed6f4b5ca6b11c133c2dd0dbd96b294.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_3021389992b9567755d258aede452942.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_3ecb1e4671b2fe0c2fb9ddbe1122651f.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_49e0ffd7ab8eb2fa89d2ce272bcddc60.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_50e1d260a3c3a567f62db4cec1ab483d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_54d36b3e000f204b92cbc692301ca11e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_58d769bc720046c313a7070727e51288.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_58de37fb07cecb482cc6080b4f73e8ea.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_6082454d21cde0811b2ca4932470d2e0.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_6665f415785730ff3625d4a15e6f7b7d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_6918c14253e830ac264328cf9c5f3c0c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_69c7b07082b78a438c0df6b9bf112707.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_6b5201e1f70a266b19b0db6674530e62.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_6b762f9fb7d199cffe654784846074f9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_6c2a28e60ef690d4a1536f09f797f5db.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_6d8ec404f6033813ce83707611016853.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_6dc0fd762cdc8b2a2834b4034cb6b319.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_6f6fd09521797902caa6dc8941cc39b6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_71cfe49733d3de827457485f9bcb4144.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_77e95ad7f0a3d248cba752dc8b37ff58.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_78080ec31c77dbdc369c63d09fddf73d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_818ea1023cab1880c68451c49f018b63.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_849d17466203f78c5812693ab7faf0f0.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_85bc5a88df675ea8d069a417a138d08c.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_85f3237ddfec4af20aed3fe72a86eee2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_874ce99ca7f596b7ce19437bd4f67abc.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_887667aca1f9a647228581a43f52b0dd.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_8d898c436959275e10fddd026ea522dc.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_8e3d8005386eaf2a0e5d98e01f0f7511.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_930d188153027f4c014555ec6f8de9dd.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_952a255cd52de0967fb8dc871f3e18d5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_96a867367dc2e4fbb5f57df2626854e1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_9a9243ef736f617a4dc34e8a1c3079eb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_9e7281aee765cb2e98b6b8d92197449d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_a54ea3b177f930d905bbf64c32178cdb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_a62c914b5eb6ed52673f713905c0a301.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_a8b959bd749ebecaa87ee372f5943cc9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_a9e58ded46fd0f640e6e7a369bde1050.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_b31f6f520de58e872e57596913e649bc.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_b7836ef4624e59896987f07d3f055243.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_be090823230ca36b7a99a591c44fe34b.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_be6867a6b5da33cbe269804d0a3dbf8e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_c306a0ff9be343c2a9052000c405f53d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_d28fe2fe0dd0aebb03ad5b13184319b9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_d509bbca4c66aed95c95954fb8dc863b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_d81a29ea2ca99784874783e05322a351.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_d964a51ce192942a6280913f470f74de.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_dc8adf5927577d69a764aa8c57c9b2b1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_e81282c6c3b7658df23b5dbce9d36227.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_f4eba837af2f768067848d0e9347bacd.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_1_f8a9d0f4986841db2431598e6940a6f6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_02404248816faa7b14d511c173a007dc.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_05da0b1673fd9946802e24d5cf3525ce.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_07bf7793a4e3bae4b794d2e105cf4fc0.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_0953b84ec4024a13d21b1d7b2e671321.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_12f0e2a2a630c85147339ddb3425311f.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_14a8dc965332498a28ef6542a88f0c96.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_19683bc6d9c9a717b1159666759314f0.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_2241c2947101af516e5e010c519e52a2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_2ab5592c5cfa3bb4fdfebe42e74502f9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_2ed6f4b5ca6b11c133c2dd0dbd96b294.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_3021389992b9567755d258aede452942.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_3ecb1e4671b2fe0c2fb9ddbe1122651f.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_49e0ffd7ab8eb2fa89d2ce272bcddc60.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_50e1d260a3c3a567f62db4cec1ab483d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_54d36b3e000f204b92cbc692301ca11e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_58d769bc720046c313a7070727e51288.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_58de37fb07cecb482cc6080b4f73e8ea.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_6082454d21cde0811b2ca4932470d2e0.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_6665f415785730ff3625d4a15e6f7b7d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_6918c14253e830ac264328cf9c5f3c0c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_69c7b07082b78a438c0df6b9bf112707.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_6b5201e1f70a266b19b0db6674530e62.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_6b762f9fb7d199cffe654784846074f9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_6c2a28e60ef690d4a1536f09f797f5db.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_6d8ec404f6033813ce83707611016853.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_6dc0fd762cdc8b2a2834b4034cb6b319.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_6f6fd09521797902caa6dc8941cc39b6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_71cfe49733d3de827457485f9bcb4144.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_77e95ad7f0a3d248cba752dc8b37ff58.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_78080ec31c77dbdc369c63d09fddf73d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_818ea1023cab1880c68451c49f018b63.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_849d17466203f78c5812693ab7faf0f0.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_85bc5a88df675ea8d069a417a138d08c.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_85f3237ddfec4af20aed3fe72a86eee2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_874ce99ca7f596b7ce19437bd4f67abc.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_887667aca1f9a647228581a43f52b0dd.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_8d898c436959275e10fddd026ea522dc.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_8e3d8005386eaf2a0e5d98e01f0f7511.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_930d188153027f4c014555ec6f8de9dd.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_952a255cd52de0967fb8dc871f3e18d5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_96a867367dc2e4fbb5f57df2626854e1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_9a9243ef736f617a4dc34e8a1c3079eb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_9e7281aee765cb2e98b6b8d92197449d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_a54ea3b177f930d905bbf64c32178cdb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_a62c914b5eb6ed52673f713905c0a301.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_a8b959bd749ebecaa87ee372f5943cc9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_a9e58ded46fd0f640e6e7a369bde1050.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_b31f6f520de58e872e57596913e649bc.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_b7836ef4624e59896987f07d3f055243.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_be090823230ca36b7a99a591c44fe34b.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_be6867a6b5da33cbe269804d0a3dbf8e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_c306a0ff9be343c2a9052000c405f53d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_d28fe2fe0dd0aebb03ad5b13184319b9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_d509bbca4c66aed95c95954fb8dc863b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_d81a29ea2ca99784874783e05322a351.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_d964a51ce192942a6280913f470f74de.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_dc8adf5927577d69a764aa8c57c9b2b1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_e81282c6c3b7658df23b5dbce9d36227.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_f4eba837af2f768067848d0e9347bacd.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\21102016\thumbnail_2_f8a9d0f4986841db2431598e6940a6f6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_0e81cdc5dd2c8bbb75c9077a99451599.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_160db92b5393f34556873ed3803e2aaa.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_17c6c92d6a3028b0fa3fdf0ced535e91.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_1bbb3157e6071a2fb68bead2739c3d14.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_1dcef5140a8aadffd21036551a125788.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_28717022a4aa3abce79fe8363c0a393c.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_40628c1b8d63a339cde3974b24d3c602.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_43dbbc253f5c49ce7775c57ebb077ef8.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_4aec24ef945d8a5121ac01f4799f3f2b.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_4eeb348eba642e2265fb8cb6d69d792d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_5b4b95f623755606ce236af9619fa067.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_68903fd2181cfeee741e4c44d8a44356.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_6a03a031b564988230bc42e0d1417c2a.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_6b6ff877953028453fbbb2b24eb28dff.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_7170ead9567f2bfd9a9aeb85f982e73b.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_80d3f712c7f432a2fa5638e00f785473.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_8811821c6f5e220a2598c2a1b5ace8db.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_88acb92b87c6b7e4b95b7686af057095.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_8c106bf989f934592d3611d9f01e7479.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_90cbe7e7939a6063286895393ae9208a.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_92fea50fc6879680198c8486b50d3056.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_9726ad530c468a04b5e569a6958e3810.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_99ec8894814d1a48dc74647b211dd87e.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_9c18e96cc5d3256c8772aa4c20865aec.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_9eb18be7d3eac1c814a285bcd87515c3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_9f6aedff47c24d0c8b72bd3673d906ba.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_a55ebda35ba57f3d053b3443a792c4c9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_a93bf2e8301623458ad2312cf87038bf.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_b4213a814204322aea151bedcd7f0beb.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_b735be0bb8eefcc9b86f1d4e4bbdea92.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_c32b2fdd2784c1e5dac55548331b39e3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_c373e93353ad29481f7ebf104c8d584f.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_c9b71c74944ec2dc156f7949e905033f.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_d01d54e53fa523bb8d30b9784a454b2f.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_d1eac3ce83282b01052dd991f41941ae.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_da5234251d56d818fc0c7a6261f1a399.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_dc7e99807e19f47b79e568f530763b22.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_e351aee15dc6fac0bf2c38bfdad2d2fb.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_ebb2d3efad3f245f52d7bcc07c61950d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_f353a581326716b9a9bb1f1556c11571.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_f867b97064ba227198468ccb40f1a12a.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_1_fa8c203d51f99a8d64492d2b0e144688.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_0e81cdc5dd2c8bbb75c9077a99451599.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_160db92b5393f34556873ed3803e2aaa.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_17c6c92d6a3028b0fa3fdf0ced535e91.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_1bbb3157e6071a2fb68bead2739c3d14.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_1dcef5140a8aadffd21036551a125788.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_28717022a4aa3abce79fe8363c0a393c.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_40628c1b8d63a339cde3974b24d3c602.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_43dbbc253f5c49ce7775c57ebb077ef8.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_4aec24ef945d8a5121ac01f4799f3f2b.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_4eeb348eba642e2265fb8cb6d69d792d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_5b4b95f623755606ce236af9619fa067.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_68903fd2181cfeee741e4c44d8a44356.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_6a03a031b564988230bc42e0d1417c2a.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_6b6ff877953028453fbbb2b24eb28dff.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_7170ead9567f2bfd9a9aeb85f982e73b.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_80d3f712c7f432a2fa5638e00f785473.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_8811821c6f5e220a2598c2a1b5ace8db.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_88acb92b87c6b7e4b95b7686af057095.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_8c106bf989f934592d3611d9f01e7479.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_90cbe7e7939a6063286895393ae9208a.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_92fea50fc6879680198c8486b50d3056.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_9726ad530c468a04b5e569a6958e3810.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_99ec8894814d1a48dc74647b211dd87e.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_9c18e96cc5d3256c8772aa4c20865aec.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_9eb18be7d3eac1c814a285bcd87515c3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_9f6aedff47c24d0c8b72bd3673d906ba.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_a55ebda35ba57f3d053b3443a792c4c9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_a93bf2e8301623458ad2312cf87038bf.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_b4213a814204322aea151bedcd7f0beb.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_b735be0bb8eefcc9b86f1d4e4bbdea92.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_c32b2fdd2784c1e5dac55548331b39e3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_c373e93353ad29481f7ebf104c8d584f.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_c9b71c74944ec2dc156f7949e905033f.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_d01d54e53fa523bb8d30b9784a454b2f.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_d1eac3ce83282b01052dd991f41941ae.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_da5234251d56d818fc0c7a6261f1a399.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_dc7e99807e19f47b79e568f530763b22.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_e351aee15dc6fac0bf2c38bfdad2d2fb.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_ebb2d3efad3f245f52d7bcc07c61950d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_f353a581326716b9a9bb1f1556c11571.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_f867b97064ba227198468ccb40f1a12a.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\22102016\thumbnail_2_fa8c203d51f99a8d64492d2b0e144688.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\29102016\thumbnail_1_47893e0745447aca9da7f33758b0c1a7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\29102016\thumbnail_1_4a55139adfb04c8e9cbf436fac60955a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\29102016\thumbnail_1_b9bff0f48ba9da2dfb3479d63f4f07f4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\29102016\thumbnail_1_f4b100bfc4e6185124f528036a6774a2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\29102016\thumbnail_2_47893e0745447aca9da7f33758b0c1a7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\29102016\thumbnail_2_4a55139adfb04c8e9cbf436fac60955a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\29102016\thumbnail_2_b9bff0f48ba9da2dfb3479d63f4f07f4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\products\29102016\thumbnail_2_f4b100bfc4e6185124f528036a6774a2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\right.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\slider-order.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\up-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\img\view-more.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\khonggian.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\lienhe.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\mon1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\thucdon.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\Restaurant\tintuc.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template_files\featured.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template_files\great-hairstyle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template_files\hairstyle17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template_files\hairstyle18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template_files\hairstyle19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template_files\hairstyle20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template_files\jquery-1.11.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template_files\piwik.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template_files\previews.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template_files\skinhead.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template_files\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ZiZurz Website Template_files\xenforo.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\ajax_clock_small.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\codemirror.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\dot.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\get_image.js.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\get_scripts.js(1).php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\get_scripts.js(2).php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\get_scripts.js(3).php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\get_scripts.js.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\jquery-ui-1.11.2.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\lint.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\logo_left.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\messages.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\phpmyadmin.css.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\printview.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\s_collapseall.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\show-hint.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\localhost _ localhost _ Techmaster _ SQL _ phpMyAdmin 4.5.2_files\whitelist.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\nav-right.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\cleardot.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\colorpicker.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\cse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\default+en.I.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\default+en.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\default.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\element.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\element_main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\gpt.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\jsapi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\main_vi.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\saved_resource.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\search_box_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\small-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\translate_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\translateelement.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\w3.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\w3schools_footer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\sort_files\w3schoolscom_gray.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\cleardot.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\colorpicker.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\cse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\default+en.I.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\default+en.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\default.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\element.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\element_main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\gpt.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\jsapi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\main_vi.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\saved_resource.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\search_box_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\small-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\translate_24dp.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\translateelement.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\w3.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\w3schools_footer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\splice_files\w3schoolscom_gray.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ung-dung-da-cap\css\reset.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ung-dung-da-cap\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Techmaster\ung-dung-da-cap\index.html" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Test\ test.html " afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html" afterPath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/script.js" afterPath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/style.css" afterPath="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tinhbanbonphuong126.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1187,21 +33,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="459">
-                  <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Tech/jQuery/Quiz javascript/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.476" vertical-offset="0" max-vertical-offset="1445">
-                  <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+                <state vertical-scroll-proportion="0.63065326" vertical-offset="21" max-vertical-offset="459">
+                  <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
                   <folding />
                 </state>
               </provider>
@@ -1214,8 +50,8 @@
           <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Tech/jQuery/Quiz javascript/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.20944558" vertical-offset="0" max-vertical-offset="816">
-                  <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+                <state vertical-scroll-proportion="0.35849056" vertical-offset="443" max-vertical-offset="867">
+                  <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -1233,12 +69,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html" />
+        <option value="$PROJECT_DIR$/Tech/jQuery/Quiz javascript/script.js" />
+      </list>
+    </option>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="24" />
-    <option name="width" value="1608" />
-    <option name="height" value="880" />
+    <option name="x" value="-1" />
+    <option name="y" value="239" />
+    <option name="width" value="1615" />
+    <option name="height" value="872" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1348,8 +192,15 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tinhbanbonphuong126.github.io/Tech/jQuery/Quiz javascript/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
@@ -1370,7 +221,14 @@
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -1386,7 +244,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="24" width="1608" height="880" extended-state="6" />
+    <frame x="-1" y="239" width="1615" height="872" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1396,12 +254,12 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10080896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40411842" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1434,26 +292,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Quiz javascript/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20545073" vertical-offset="89" max-vertical-offset="1445">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tech/jQuery/Quiz javascript/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20944558" vertical-offset="0" max-vertical-offset="816">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.35849056" vertical-offset="443" max-vertical-offset="867">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="459">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Quiz javascript/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.476" vertical-offset="0" max-vertical-offset="1445">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.63065326" vertical-offset="21" max-vertical-offset="459">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           <folding />
         </state>
       </provider>
