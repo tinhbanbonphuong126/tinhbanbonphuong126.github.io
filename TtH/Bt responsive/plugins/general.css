@@ -62,6 +62,12 @@
     clear: both;
     height: 50px;
 }
+.clearfix-100::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 100px;
+}
 
 
 /*Border radius*/

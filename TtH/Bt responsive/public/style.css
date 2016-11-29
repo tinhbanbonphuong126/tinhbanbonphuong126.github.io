@@ -1,8 +1,25 @@
 * {
     padding: 0;
     margin: 0;
+
 }
 
+/* Space out content a bit */
+body {
+    padding-top: 1.5rem;
+    /*padding-bottom: 1.5rem;*/
+    padding-bottom: 0px
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.main,
+.footer {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-bottom: 0;
+
+}
 table th, td {
     text-align: center;
 }
@@ -15,3 +32,43 @@ table th, td {
     caption-side: top;
     font-size: 26px;
 }
+
+/*dropdown menu*/
+.dropdown-menu-last {
+    position: absolute;
+    top: 100%;
+    left: auto;
+    right:0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 10rem;
+    padding: 0.5rem 0;
+    margin: 0.125rem 0 0;
+    font-size: 1rem;
+    color: #373a3c;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+}
+
+/*padding*/
+.p-8 {
+    padding: 8rem 8rem !important;
+}
+
+table tbody tr td span {
+    display: none;
+}
+table tbody tr:hover span {
+    display: block;
+}
+
+
+
+
+
