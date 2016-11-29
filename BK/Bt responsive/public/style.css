@@ -1,0 +1,23 @@
+
+
+
+header {
+    background: url("../images/Morning-Module-A.png") repeat-x;
+    height: 150px;
+    padding-top: 96px;
+}
+
+footer {
+    background: url("../images/Morning-Module-A.png") repeat-x;
+    height: 50px;
+    padding-top: 96px;
+}
+
+.table-responsive table caption {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    color: #0c0c0c;
+    text-align: center;
+    caption-side: top;
+    font-size: 26px;
+}
