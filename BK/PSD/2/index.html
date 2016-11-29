@@ -12,9 +12,13 @@
             <header>
                 <!-- header -->
                 <!-- amimation	 -->
-                <div id="animation">
-
-                </div>
+                    <div class="neoslideshow">
+                        <img src="images/1.jpg" width="750" height="300" />
+                        <img src="images/2.jpg" width="750" height="300" />
+                        <img src="images/3.jpg" width="750" height="300" />
+                        <img src="images/4.jpg" width="750" height="300" />
+                        <img src="images/5.jpg" width="750" height="300" />
+                    </div>
                 <!-- logo -->
                 <div id="logo">
                     <a href="#">London Tourist</a>
@@ -105,6 +109,20 @@
             </div>
         </div>
 	</footer>
+    <script src="plugin/jquery-3.1.1.min.js"></script>
+    <script>
+        $(function() {
+            $('.neoslideshow img:gt(0)').hide();
+            setInterval(function(){
+                        $('.neoslideshow :first-child').fadeOut()
+                                .next('img').fadeIn()
+                                .end().appendTo('.neoslideshow');},
+                    4000);
+        })
+
+    </script>
+
+
 </body>
 </html>
 

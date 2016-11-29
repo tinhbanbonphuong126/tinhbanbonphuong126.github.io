@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+table th, td {
+    text-align: center;
+}
+
+.table-responsive table caption {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    color: #0c0c0c;
+    text-align: center;
+    caption-side: top;
+    font-size: 26px;
+}

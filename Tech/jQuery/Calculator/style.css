@@ -1,0 +1,43 @@
+
+
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+#wrap {
+	border: 1px solid black;
+	max-width: 392px;
+	/* height: 400px; */
+	margin: 100px auto;
+}
+
+#display , #show {
+	border: 1px solid black;
+	width: 100%;
+	height: 70px;
+	font-size: 30px;
+}
+
+#keyboard {
+	/* border: 1px solid black; */
+	overflow: hidden;
+}
+
+#keyboard .btn {
+	/* border: 1px solid black; */
+	width: 65px;
+	height: 50px;
+	float: left;
+}
+
+#keyboard .btn button {
+	/* border: 1px solid black; */
+	float: left;
+	height: 100%;
+	width: 100%;
+}
+
+
