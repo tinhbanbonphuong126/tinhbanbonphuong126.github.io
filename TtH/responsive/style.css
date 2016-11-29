@@ -3,20 +3,11 @@
 /*}*/
 
 
-.page-content {
-padding: 0;
-margin: 0;
-width: 100%;
-}
-
-ul {
-    list-style: none;
-    list-style-type: none;
-}
-ul > li {
-
-
-}
+/*.page-content {*/
+/*padding: 0;*/
+/*margin: 0;*/
+/*width: 100%;*/
+/*}*/
 /*.main-content {*/
 /*width: 65%;*/
 /*height: 400px;*/
@@ -37,37 +28,37 @@ ul > li {
 /*}*/
 
 
-/*ul {*/
-    /*list-style-type: none;*/
-    /*margin: 0;*/
-    /*padding: 0;*/
-    /*overflow: hidden;*/
-    /*background-color: #333;*/
-/*}*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
 
-/*li {*/
-    /*width: 20%;*/
-    /*float: left;*/
-/*}*/
+li {
+    width: 20%;
+    float: left;
+}
 
-/*li a {*/
-    /*display: block;*/
-    /*color: white;*/
-    /*text-align: center;*/
-    /*padding: 14px 16px;*/
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
     /* width: 31%; */
-    /*text-decoration: none;*/
-/*}*/
+    text-decoration: none;
+}
 
-/*li a:hover {*/
-    /*background-color: #111;*/
-/*}*/
+li a:hover {
+    background-color: #111;
+}
 
 
-/*media*/
+/*medi*/
 
-/*@media screen and (max-width: 671px) {*/
-    /*li {*/
-        /*width: 100%;*/
-    /*}*/
-/*}*/
+@media screen and (max-width: 671px) {
+    li{
+        width: 100%;
+    }
+}
