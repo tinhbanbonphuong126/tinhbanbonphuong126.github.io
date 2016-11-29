@@ -137,10 +137,10 @@ for (var i = 0; i < button.length; i++)
 {
 
 
-	vl_button[i]  = document.getElementsByTagName('button')[i].innerHTML;
+	// vl_button[i]  = document.getElementsByTagName('button')[i].innerHTML;
 	button[i].addEventListener('click', function(num){
 		return function () {
-		var btn = vl_button[num];
+		var btn = this.innerHTML;
 
 
 
