@@ -2,95 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0f19888-1ed7-4eae-9d50-a892bac2b8e8" name="Default" comment="Update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/js/getValueFromForm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-flex.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-flex.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-flex.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-flex.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-grid.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-reboot.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/general.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/plugins/tether.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/thongtin.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/Registers form/index.html" afterPath="$PROJECT_DIR$/Tech/Registers form/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/Registers form/thongtin.html" afterPath="$PROJECT_DIR$/Tech/Registers form/thongtin.html" />
     </list>
     <ignored path="tinhbanbonphuong126.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -114,21 +28,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.4587156">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="thongtin.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="thongtin.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Tech/Registers form/thongtin.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6300813">
-                  <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+                <state vertical-scroll-proportion="-16.875">
+                  <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Tech/Registers form/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-1.25">
-                  <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
+                <state vertical-scroll-proportion="0.32520324">
+                  <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
                   <folding />
                 </state>
               </provider>
@@ -141,8 +55,8 @@
           <file leaf-file-name="getValueFromForm.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Tech/Registers form/js/getValueFromForm.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.39370078">
-                  <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+                <state vertical-scroll-proportion="0.37401575">
+                  <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
                   <folding />
                 </state>
               </provider>
@@ -165,8 +79,8 @@
       <list>
         <option value="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/js/getValueFromForm.js" />
         <option value="$PROJECT_DIR$/Tech/Registers form/js/getValueFromForm.js" />
-        <option value="$PROJECT_DIR$/Tech/Registers form/index.html" />
         <option value="$PROJECT_DIR$/Tech/Registers form/thongtin.html" />
+        <option value="$PROJECT_DIR$/Tech/Registers form/index.html" />
       </list>
     </option>
   </component>
@@ -851,26 +765,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Registers form/index.html">
+    <entry file="file://$PROJECT_DIR$/Tech/Registers form/thongtin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
+        <state vertical-scroll-proportion="-16.875">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Registers form/thongtin.html">
+    <entry file="file://$PROJECT_DIR$/Tech/Registers form/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6300813">
-          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.32520324">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tech/Registers form/js/getValueFromForm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39370078">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.37401575">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
           <folding />
         </state>
       </provider>
