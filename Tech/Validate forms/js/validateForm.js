@@ -1,7 +1,9 @@
-$('#validate_form').on('submit', function(){
+
+$('#validate_form').on({
+        mouseout: submit_validate = function(){
     //flag return?????
-    var valid= true;
-    if($('#name').val().trim()=='') {
+        var valid= true;
+        if($('#name').val().trim()=='') {
         $('#name').next('div').removeClass('hidden-xl-down');
         $('#name').next('div').text('* is empty');
         valid=false;
@@ -72,4 +74,10 @@ $('#validate_form').on('submit', function(){
     }   else $('#facebook').next('div').addClass('hidden-xl-down');
 
     return valid;
-})
+},
+    //submit event
+    submit: function () {
+        return submit_validate();
+    }
+
+});
