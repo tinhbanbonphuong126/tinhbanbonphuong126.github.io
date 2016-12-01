@@ -18,4 +18,4 @@ $('#sex').append(GetURLParameter('sex'));
 $('#address').append(GetURLParameter('address'));
 $('#phone').append(GetURLParameter('phone'));
 $('#email').append(GetURLParameter('email'));
-$('#password').append(GetURLParameter('password'));
+$('#facebook').append(GetURLParameter('facebook'));

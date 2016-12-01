@@ -1,104 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0f19888-1ed7-4eae-9d50-a892bac2b8e8" name="Default" comment="Update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/ImageGallery.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/ImageGallery.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/Link-image.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/img/female.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/img/male.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Techmaster/female.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Techmaster/male.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-flex.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-flex.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-flex.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-flex.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-grid.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-reboot.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/general.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/tether.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/ImageGallery.rar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/ImageGallery.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/Link-image.rar" afterPath="" />
+    <list default="true" id="c0f19888-1ed7-4eae-9d50-a892bac2b8e8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Registers form/Registers form.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/Table-SortJquery.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/TableHTML.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/img/female.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/img/male.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate forms/Validate forms.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/jQuery/Calculator/Calculator.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BK/javascript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BK/javascript/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BK/javascript/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/js/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-flex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-flex.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-flex.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-flex.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/general.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/tether.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/cleardot.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/colorpicker.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/cse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/default+en.I.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/default+en.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/element_main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/gpt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/jsapi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/main_vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/search_box_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/small-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/translate_24dp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/translateelement.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/w3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/w3schools_footer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/sort_files/w3schoolscom_gray.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice.htm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/cleardot.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/colorpicker.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/cse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/default+en.I.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/default+en.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/element_main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/gpt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/jsapi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/main_vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/search_box_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/small-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/translate_24dp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/translateelement.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/w3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/w3schools_footer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/splice_files/w3schoolscom_gray.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Techmaster/Calculator/bin.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/Registers form/js/getValueFromForm.js" afterPath="$PROJECT_DIR$/Tech/Registers form/js/getValueFromForm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/Table and sort/index.htm" afterPath="$PROJECT_DIR$/Tech/Table and sort/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/Table and sort/js/script.js" afterPath="$PROJECT_DIR$/Tech/Table and sort/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/Validate forms/index.html" afterPath="$PROJECT_DIR$/Tech/Validate forms/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/Validate forms/js/getValueFromForm.js" afterPath="$PROJECT_DIR$/Tech/Validate forms/js/getValueFromForm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/Validate forms/js/validateForm.js" afterPath="$PROJECT_DIR$/Tech/Validate forms/js/validateForm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/Validate forms/thongtin.html" afterPath="$PROJECT_DIR$/Tech/Validate forms/thongtin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TtH/Bt responsive/addproduct.html" afterPath="$PROJECT_DIR$/TtH/Bt responsive/addproduct.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TtH/Bt responsive/index.html" afterPath="$PROJECT_DIR$/TtH/Bt responsive/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TtH/Bt responsive/public/style.css" afterPath="$PROJECT_DIR$/TtH/Bt responsive/public/style.css" />
     </list>
     <ignored path="tinhbanbonphuong126.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,58 +174,14 @@
     <favorites_list name="tinhbanbonphuong126.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tech/Validate forms/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.333333">
-              <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thongtin.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tech/Validate forms/thongtin.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6662665">
-              <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tech/Table and sort/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.75">
-              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tech/Table and sort/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tech/Table and sort/index.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25">
-              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -183,17 +194,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/js/getValueFromForm.js" />
-        <option value="$PROJECT_DIR$/Tech/Validate forms/thongtin.html" />
-        <option value="$PROJECT_DIR$/Tech/Registers form/thongtin.html" />
-        <option value="$PROJECT_DIR$/Tech/Validate forms/js/getValueFromForm.js" />
-        <option value="$PROJECT_DIR$/Tech/Registers form/js/getValueFromForm.js" />
-        <option value="$PROJECT_DIR$/Tech/Registers form/index.html" />
-        <option value="$PROJECT_DIR$/Tech/Validate forms/index.html" />
-        <option value="$PROJECT_DIR$/Tech/Validate forms/js/validateForm.js" />
         <option value="$PROJECT_DIR$/Tech/Table and sort/js/script.js" />
-        <option value="$PROJECT_DIR$/Tech/Table and sort/css/style.css" />
         <option value="$PROJECT_DIR$/Tech/Table and sort/index.htm" />
+        <option value="$PROJECT_DIR$/Tech/Table_DataTable_js/js/script.js" />
+        <option value="$PROJECT_DIR$/Tech/Table_DataTable_js/index.htm" />
+        <option value="$PROJECT_DIR$/Tech/Table_DataTable_js/js/data.js" />
       </list>
     </option>
   </component>
@@ -204,7 +209,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="219" />
     <option name="width" value="1920" />
     <option name="height" value="977" />
   </component>
@@ -311,7 +316,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Validate forms" />
+              <option name="myItemId" value="Table_DataTable_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tinhbanbonphuong126.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tinhbanbonphuong126.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Table_DataTable_js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -330,23 +357,20 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Tech/Table and sort/img" />
-      <recent name="$PROJECT_DIR$/Tech/Table and sort" />
-      <recent name="$PROJECT_DIR$/Tech" />
-      <recent name="$PROJECT_DIR$/Tech/Registers form/plugins" />
-      <recent name="$PROJECT_DIR$/Tech/Registers form" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Tech/Registers form/js" />
       <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\public" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tech" />
+      <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Tech\Validate forms\plugins" />
+      <recent name="$PROJECT_DIR$/Tech/Registers form/plugins" />
+      <recent name="$PROJECT_DIR$/Tech/Registers form" />
+      <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\BK\Bt responsive\images" />
+    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
-    <configuration default="false" name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tinhbanbonphuong126.github.io/Tech/jQuery/Quiz javascript/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="index.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tinhbanbonphuong126.github.io/Tech/Validate forms/index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.htm">
+    <configuration default="false" name="index.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tinhbanbonphuong126.github.io/Tech/Table_DataTable_js/index.htm">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -380,26 +404,12 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:63342/tinhbanbonphuong126.github.io/Tech/jQuery/Game card/index.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/tinhbanbonphuong126.github.io/TtH/Bt responsive/index.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.htm" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.htm" />
       </list>
     </recent_temporary>
   </component>
@@ -414,17 +424,23 @@
       <option name="number" value="Default" />
       <updated>1480053444437</updated>
     </task>
-    <task id="LOCAL-00001" summary="Commit file">
-      <created>1480572598369</created>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1480530879820</created>
       <option name="number" value="00001" />
       <option name="project" value="LOCAL" />
-      <updated>1480572598369</updated>
+      <updated>1480530879820</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update final">
+      <created>1480531389150</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1480531389150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="977" extended-state="6" />
+    <frame x="0" y="219" width="1920" height="977" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -433,20 +449,20 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23961662" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -462,8 +478,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
-    <MESSAGE value="Commit file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit file" />
+    <MESSAGE value="Update final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -475,34 +491,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Game card/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Game card/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Game card/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Game card/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tech/jQuery/Game card/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -801,6 +789,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/Validate forms/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5318127">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/Validate forms/thongtin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.88235295">
+          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tech/Table and sort/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.75">
@@ -812,31 +816,47 @@
     <entry file="file://$PROJECT_DIR$/Tech/Table and sort/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tech/Table and sort/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state vertical-scroll-proportion="-11.583333">
+          <caret line="200" column="48" selection-start-line="200" selection-start-column="48" selection-end-line="200" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Validate forms/index.html">
+    <entry file="file://$PROJECT_DIR$/Tech/Restaurant/khonggian.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.333333">
-          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        <state vertical-scroll-proportion="-0.88560885">
+          <caret line="25" column="110" selection-start-line="25" selection-start-column="110" selection-end-line="25" selection-end-column="110" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Validate forms/thongtin.html">
+    <entry file="file://$PROJECT_DIR$/Tech/Table_DataTable_js/js/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6662665">
-          <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.49646643">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/Table_DataTable_js/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3529412">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/Table_DataTable_js/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77490777">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>

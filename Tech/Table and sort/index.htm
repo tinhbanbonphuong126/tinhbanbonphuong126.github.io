@@ -13,13 +13,14 @@
     <link rel="stylesheet" href="./plugins/bootstrap/css/bootstrap-reboot.css">
     <link rel="stylesheet" href="./plugins/bootstrap/css/bootstrap-reboot.css">
     <link rel="stylesheet" href="./plugins/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="./css/style.css">
     <style>
     </style>
 </head>
 <body>
     <div class="container">
-        <table class="table table-hover">
+        <table class="table table-hover" id="myTable">
             <caption class="text-uppercase font-weight-bold text-xs-center">Student list</caption>
             <thead>
             <!--hover on it and show button remove-->
@@ -37,9 +38,9 @@
             <tbody class="flex-items-xs-bottom">
                 <tr>
                     <th scope="row">1</th>
-                    <td>Mark</td>
+                    <td>John</td>
                     <td><img width="16px" height="16px" src="./img/male.png" alt=""></td>
-                    <td>Fale</td>
+                    <td>Female</td>
                     <td>xxxxxx@gmail.com</td>
                     <td>0905-xxx-xxx</td>
                     <td class="occupied">
@@ -51,9 +52,9 @@
                 </tr>
                 <tr>
                     <th scope="row">2</th>
-                    <td>Mark</td>
+                    <td>Kim</td>
                     <td><img width="16px" height="16px" src="./img/male.png" alt=""></td>
-                    <td>Fale</td>
+                    <td>Female</td>
                     <td>xxxxxx@gmail.com</td>
                     <td>0905-xxx-xxx</td>
                     <td class="occupied">
@@ -65,7 +66,7 @@
                 </tr>
                 <tr>
                     <th scope="row">3</th>
-                    <td>Mark</td>
+                    <td>Marry</td>
                     <td><img width="16px" height="16px" src="./img/male.png" alt=""></td>
                     <td>Male</td>
                     <td>xxxxxx@gmail.com</td>
@@ -79,9 +80,9 @@
                 </tr>
                 <tr>
                     <th scope="row">4</th>
-                    <td>Mark</td>
+                    <td>Yamada</td>
                     <td><img width="16px" height="16px" src="./img/male.png" alt=""></td>
-                    <td>Male</td>
+                    <td>Female</td>
                     <td>xxxxxx@gmail.com</td>
                     <td>0905-xxx-xxx</td>
                     <td class="occupied">
@@ -93,7 +94,7 @@
                 </tr>
                 <tr>
                     <th scope="row">5</th>
-                    <td>Mark</td>
+                    <td>Peter</td>
                     <td><img width="16px" height="16px" src="./img/male.png" alt=""></td>
                     <td>Male</td>
                     <td>xxxxxx@gmail.com</td>
@@ -107,7 +108,7 @@
                 </tr>
                 <tr>
                     <th scope="row">6</th>
-                    <td>Mark</td>
+                    <td>Philips</td>
                     <td><img width="16px" height="16px" src="./img/male.png" alt=""></td>
                     <td>Male</td>
                     <td>xxxxxx@gmail.com</td>
@@ -123,7 +124,7 @@
                     <th scope="row">7</th>
                     <td>Mark</td>
                     <td><img width="16px" height="16px" src="./img/male.png" alt=""></td>
-                    <td>Male</td>
+                    <td>Female</td>
                     <td>xxxxxx@gmail.com</td>
                     <td>0905-xxx-xxx</td>
                     <td class="occupied">
@@ -163,9 +164,51 @@
                 </tr>
                 <tr>
                     <th scope="row">10</th>
+                    <td>Lee</td>
+                    <td><img width="16px" height="16px" src="./img/male.png" alt=""></td>
+                    <td>Male</td>
+                    <td>xxxxxx@gmail.com</td>
+                    <td>0905-xxx-xxx</td>
+                    <td class="occupied">
+                        <div class="show-option">
+                            <i class="fa fa-edit"></i>
+                            <i class="fa fa-trash-o"></i>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">11</th>
                     <td>Mark</td>
                     <td><img width="16px" height="16px" src="./img/male.png" alt=""></td>
                     <td>Male</td>
+                    <td>xxxxxx@gmail.com</td>
+                    <td>0905-xxx-xxx</td>
+                    <td class="occupied">
+                        <div class="show-option">
+                            <i class="fa fa-edit"></i>
+                            <i class="fa fa-trash-o"></i>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">12</th>
+                    <td>Ueno</td>
+                    <td><img width="16px" height="16px" src="./img/male.png" alt=""></td>
+                    <td>Male</td>
+                    <td>xxxxxx@gmail.com</td>
+                    <td>0905-xxx-xxx</td>
+                    <td class="occupied">
+                        <div class="show-option">
+                            <i class="fa fa-edit"></i>
+                            <i class="fa fa-trash-o"></i>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">13</th>
+                    <td>Gark</td>
+                    <td><img width="16px" height="16px" src="./img/male.png" alt=""></td>
+                    <td>Female</td>
                     <td>xxxxxx@gmail.com</td>
                     <td>0905-xxx-xxx</td>
                     <td class="occupied">
@@ -182,6 +225,7 @@
 
     <!--javascript here-->
     <script src="./js/script.js"></script>
+    <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
 </body>
 </html>
 

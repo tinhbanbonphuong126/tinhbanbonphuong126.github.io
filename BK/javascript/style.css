@@ -1,0 +1,13 @@
+body {
+	line-height: 2em;
+}
+label {
+	float: left;
+}
+input {
+	float: right;
+	line-height: 23px;
+}
+form {
+	width: 350px;
+}

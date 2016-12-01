@@ -24,7 +24,7 @@ table th, td {
     text-align: center;
 }
 
-.table-responsive table caption {
+table caption {
     padding-top: 0.75rem;
     padding-bottom: 0.75rem;
     color: #0c0c0c;
@@ -61,14 +61,35 @@ table th, td {
     padding: 8rem 8rem !important;
 }
 
-table tbody tr td span {
+table tbody tr td div span{
     display: none;
 }
-table tbody tr:hover span {
+table tbody tr:hover td div span {
     display: block;
 }
 
 
+/*button*/
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
 
 
 

@@ -6,8 +6,12 @@ function GetURLParameter(para) {
     for (var i = 0; i < aPageURL.length; i++) {
         var c = aPageURL[i].split('=');
         if (c[0] == para) {
-            var rs = c[1].replace(/\+/g,' ');
-            console.log(rs);
+            var rs = c[1].replace(/\+/g,' ')
+            if (c[0]=='date')
+            {   var pieces = rs.split('-');
+                pieces.reverse();
+                rs = pieces.join('-');
+            }
             return rs;
         }
     }
