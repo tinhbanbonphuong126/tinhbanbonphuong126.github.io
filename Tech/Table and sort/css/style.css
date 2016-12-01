@@ -1,0 +1,23 @@
+
+/*Css for table */
+.table tbody tr, th {
+    text-align: center;
+}
+.table tbody tr:hover {
+    background-color: rgba(20, 48, 37, 0.18);
+}
+.table caption {
+    font-size: 30px;
+    /*Set caption on the top of table*/
+    caption-side: top;
+}
+.occupied {
+    width: 60px;
+}
+.show-option {
+    display: none;
+}
+.table tbody tr:hover .show-option {
+    display: block;
+}
+/*end of css for Table*/

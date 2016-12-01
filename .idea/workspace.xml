@@ -1,8 +1,787 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0f19888-1ed7-4eae-9d50-a892bac2b8e8" name="Default" comment="Update">
+    <list default="true" id="c0f19888-1ed7-4eae-9d50-a892bac2b8e8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Acer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Acer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Apple.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Asus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Asus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Dell.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Dell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Favico.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/HP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/HP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/ImageGallery.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/ImageGallery/ImageGallery.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Lenovo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Lenovo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Link-image/Link-image.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/MSI.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/MSI.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/images/Picture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Samsung.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Samsung.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Sonyvaio.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Sonyvaio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/Table-SortJquery.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/Table-SortJquery.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/Table-SortJquery.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/TableHTML.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/TableHTML.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/TableHTML.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/Tablejs.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/Tablejs.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Toshiba.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/Toshiba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/Validate forms.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/images/avatar.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/images/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/img/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/images/birds.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/images/chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/chosen/chosen-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/chosen/chosen-sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/img/female.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/img/female.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/img/female.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Techmaster/female.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/final_Sort withou index column jQuery Table Data.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/final_Sort withou index column jQuery Table Data.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/images/flower.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/images/hambuger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/img/male.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/img/male.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/img/male.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Techmaster/male.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/images/portraits.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/images/trees.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/.hsdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/3-Advanced/1-embedding_tether.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/2-Examples/1-list_of_examples.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/1-Overview/1-why_you_should_use_tether.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/3-Advanced/2-extending_tether.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/2-Examples/2-projects_using_tether.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/1-Overview/2-repositioning.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/1-Overview/3-why_we_dont_support_IE_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/sass/_inline-block.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/css/mixins/_inline-block.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/css/mixins/_pie-clearfix.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/css/helpers/_tether-theme-arrows.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/css/helpers/_tether-theme-basic.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/css/helpers/_tether.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/js/abutment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/addproduct.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/resources/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-flex.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-flex.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-flex.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-flex.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-flex.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-flex.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-flex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-flex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-flex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-flex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-flex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-flex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-flex.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-flex.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-flex.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-flex.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-flex.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-flex.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-flex.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-flex.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-flex.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-flex.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-flex.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-flex.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/responsive/plugins/bootstrap/css/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/css/browser-demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/browser-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/sass/browser-demo.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/chosen/chosen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/chosen/chosen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/viewport/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/js/constraint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/js/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/js/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/dolls/dolls.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/dolls/dolls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/js/drop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/facebook/facebook.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/general.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/general.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/general.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/general.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/general.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/general.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/js/getValueFromForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/chosen/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/content-visible/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/dolls/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/element-scroll/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/enable-disable/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/facebook/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/out-of-bounds/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/pin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/scroll/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/simple/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/testbed/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/tooltip/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/viewport/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/coffee/intro.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/css/intro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/js/intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/intro.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/sass/intro.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/resources/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/js/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/resources/js/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/js/markAttachment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/js/markAttachment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/css/prism.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/public/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/js/shift.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/examples/common/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/public/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/dist/css/tether-theme-arrows-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/dist/css/tether-theme-arrows-dark.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/css/tether-theme-arrows-dark.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/dist/css/tether-theme-arrows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/dist/css/tether-theme-arrows.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/css/tether-theme-arrows.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/dist/css/tether-theme-basic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/dist/css/tether-theme-basic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/css/tether-theme-basic.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/js/tether-v0.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/tether.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/dist/css/tether.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/tether.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/tether.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/tether.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/tether.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/tether.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/dist/js/tether.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/js/tether.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/dist/css/tether.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/dist/js/tether.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/css/tether.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/text.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/thongtin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/src/js/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/js/validateForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/plugins/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table and sort/plugins/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Table_DataTable_js/plugins/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Validate form/plugins/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/coffee/welcome.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/css/welcome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/js/welcome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Btresponsive/plugins/tether/docs/welcome/sass/welcome.sass" />
       <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Test\ test.html " afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\addproduct.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Acer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Acer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Apple.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Apple.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Asus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Asus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Dell.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Dell.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Favico.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\HP.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\HP.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Lenovo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Lenovo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\MSI.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\MSI.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Samsung.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Samsung.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Sonyvaio.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Sonyvaio.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Toshiba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\Toshiba.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images\banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\css\bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\css\bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\bootstrap-3.3.7-dist\js\npm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-flex.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-flex.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-flex.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-flex.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-grid.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-grid.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-grid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-grid.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-reboot.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-reboot.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-reboot.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-reboot.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\css\bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\bootstrap\js\npm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\HELP-US-OUT.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\css\font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\fonts\fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\animated.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\core.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\icons.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\larger.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\list.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\path.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\less\variables.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\font-awesome\scss\font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins\general.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\public\script.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\public\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\text.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tinhbanbonphuong126.github.io.iws" />
@@ -28,41 +807,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="thongtin.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tech/Validate forms/thongtin.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TtH/Btresponsive/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.9615383" vertical-offset="49" max-vertical-offset="935">
-              <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
-              <folding />
+            <state vertical-scroll-proportion="0.094444446" vertical-offset="238" max-vertical-offset="6817">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="tag#ul#0;tag#div#2;tag#nav#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BK/javascript/index.html">
+      <file leaf-file-name="text.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TtH/Btresponsive/text.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="867">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BK/javascript/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.022397893" vertical-offset="0" max-vertical-offset="759">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BK/javascript/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.230769" vertical-offset="134" max-vertical-offset="1003">
+              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="212" />
               <folding />
             </state>
           </provider>
@@ -87,6 +849,13 @@
         <option value="$PROJECT_DIR$/Tech/Validate forms/index.html" />
         <option value="$PROJECT_DIR$/Tech/Validate forms/js/validateForm.js" />
         <option value="$PROJECT_DIR$/Tech/Validate forms/thongtin.html" />
+        <option value="$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/Tech/Registers form/index.html" />
+        <option value="$PROJECT_DIR$/Tech/GalleryImageResponsive/index.html" />
+        <option value="$PROJECT_DIR$/TtH/Bt responsive/text.html" />
+        <option value="$PROJECT_DIR$/TtH/Bt responsive/index.html" />
+        <option value="$PROJECT_DIR$/TtH/Btresponsive/text.html" />
+        <option value="$PROJECT_DIR$/TtH/Btresponsive/index.html" />
       </list>
     </option>
   </component>
@@ -167,7 +936,57 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BK" />
+              <option name="myItemId" value="TtH" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tinhbanbonphuong126.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tinhbanbonphuong126.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TtH" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Btresponsive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tinhbanbonphuong126.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tinhbanbonphuong126.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tinhbanbonphuong126.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tinhbanbonphuong126.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Validate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,32 +1001,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="BK" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tinhbanbonphuong126.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tinhbanbonphuong126.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BK" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -228,18 +1021,25 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Tech\Validate forms\plugins" />
-      <recent name="$PROJECT_DIR$/Tech" />
-      <recent name="$PROJECT_DIR$/Tech/Registers form/plugins" />
-      <recent name="$PROJECT_DIR$/Tech/Registers form" />
-      <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\BK\Bt responsive\images" />
+      <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\plugins" />
+      <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Tech\GalleryImageResponsive\plugins" />
+      <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\images" />
+      <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Tech\Baitap_Table_DataTable_js" />
+      <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Tech\GalleryImageResponsive\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Tech\GalleryImageResponsive" />
+      <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Tech\Baitap_Table_DataTable_js" />
       <recent name="$PROJECT_DIR$/Tech/Registers form/js" />
       <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\public" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tinhbanbonphuong126.github.io/Tech/Registers form/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
@@ -265,7 +1065,14 @@
       <envs />
       <method />
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -299,24 +1106,24 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866243" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -353,12 +1160,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Update" />
     <MESSAGE value="Update final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update final" />
+    <MESSAGE value="Home update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -370,55 +1180,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Game card/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Game card/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Game card/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Game card/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Game card/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Game card/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Game card/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tech/jQuery/Calculator/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
@@ -490,13 +1251,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TtH/Bt responsive/plugins/bootstrap/js/npm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2857143" vertical-offset="0" max-vertical-offset="0">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TtH/1dashboard/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23809524" vertical-offset="0" max-vertical-offset="0">
@@ -508,48 +1262,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.9273256" vertical-offset="0" max-vertical-offset="0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TtH/Bt responsive/plugins/bootstrap/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5" vertical-offset="0" max-vertical-offset="0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TtH/Bt responsive/plugins/bootstrap/css/bootstrap-flex.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="0" max-vertical-offset="0">
-          <caret line="7277" column="0" selection-start-line="7277" selection-start-column="0" selection-end-line="7277" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TtH/Bt responsive/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TtH/Bt responsive/public/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TtH/Bt responsive/plugins/general.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="68" column="17" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TtH/Bt responsive/plugins/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.33333334" vertical-offset="0" max-vertical-offset="0">
-          <caret line="669" column="0" selection-start-line="669" selection-start-column="0" selection-end-line="669" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -595,13 +1307,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TtH/Bt responsive/public/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40650406" vertical-offset="0" max-vertical-offset="0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TtH/responsive/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30487806" vertical-offset="0" max-vertical-offset="0">
@@ -623,24 +1328,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TtH/Bt responsive/addproduct.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4268292" vertical-offset="0" max-vertical-offset="0">
-          <caret line="109" column="18" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tech/Registers form/plugins/tether.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5905512" vertical-offset="0" max-vertical-offset="0">
           <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TtH/Bt responsive/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2361111" vertical-offset="0" max-vertical-offset="5406">
-          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -658,54 +1349,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Registers form/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33697134" vertical-offset="399" max-vertical-offset="1173">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Validate forms/plugins/bootstrap/css/bootstrap-flex.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3324397" vertical-offset="124549" max-vertical-offset="125562">
-          <caret line="7341" column="0" selection-start-line="7341" selection-start-column="0" selection-end-line="7341" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Validate forms/js/getValueFromForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Validate forms/js/validateForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4530831" vertical-offset="750" max-vertical-offset="1513">
-          <caret line="64" column="48" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Validate forms/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28103682" vertical-offset="729" max-vertical-offset="1462">
-          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20158103" vertical-offset="0" max-vertical-offset="6817">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Validate forms/thongtin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.9615383" vertical-offset="49" max-vertical-offset="935">
-          <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,15 +1360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="759">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BK/javascript/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="867">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +1367,129 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.022397893" vertical-offset="0" max-vertical-offset="759">
           <caret line="1" column="22" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BK/javascript/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.002728513" vertical-offset="134" max-vertical-offset="867">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26877472" vertical-offset="0" max-vertical-offset="759">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/ImageGallery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18553889" vertical-offset="0" max-vertical-offset="2125">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/GalleryImageResponsive/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="759">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap-flex.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.152815" vertical-offset="71390" max-vertical-offset="125562">
+          <caret line="4250" column="14" selection-start-line="4250" selection-start-column="14" selection-end-line="4250" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3324397" vertical-offset="65236" max-vertical-offset="113747">
+          <caret line="3852" column="0" selection-start-line="3852" selection-start-column="0" selection-end-line="3852" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="1343">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/tether.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="759">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/GalleryImageResponsive/plugins/tether.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45576409" vertical-offset="0" max-vertical-offset="30566">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/Registers form/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.046384722" vertical-offset="255" max-vertical-offset="1173">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/GalleryImageResponsive/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25972223" vertical-offset="51" max-vertical-offset="1479">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/Validate/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06957708" vertical-offset="0" max-vertical-offset="1462">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="14" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TtH/Btresponsive/plugins/bootstrap/css/bootstrap-flex.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3324397" vertical-offset="67225" max-vertical-offset="125562">
+          <caret line="3969" column="0" selection-start-line="3969" selection-start-column="0" selection-end-line="3969" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TtH/Btresponsive/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.230769" vertical-offset="134" max-vertical-offset="1003">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="212" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TtH/Btresponsive/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.094444446" vertical-offset="238" max-vertical-offset="6817">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#ul#0;tag#div#2;tag#nav#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
