@@ -1,0 +1,423 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Responsive</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js"></script>
+    <script src="plugins/tether/dist/js/tether.js"></script>
+    <script src="plugins/bootstrap/js/bootstrap.js"></script>
+    <link rel="stylesheet" href="./plugins/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="./plugins/bootstrap/css/bootstrap-flex.css">
+    <link rel="stylesheet" href="./plugins/bootstrap/css/bootstrap-grid.css"/
+    <link rel="stylesheet" href="./plugins/bootstrap/css/bootstrap-reboot.css">
+    <link rel="stylesheet" href="./plugins/bootstrap/css/bootstrap-reboot.css">
+    <link rel="stylesheet" href="./plugins/general.css"/>
+    <link rel="stylesheet" href="./public/style.css"/>
+    <link rel="stylesheet" href="./plugins/font-awesome/css/font-awesome.css">
+
+    <style>
+        nav .navbar-toggler {
+            float: right;
+        }
+        i {
+            color: #0074d9;
+        }
+    </style>
+</head>
+<body>
+
+
+<!--header?-->
+<nav class="navbar navbar-light bg-faded navbar-fixed-top">
+    <!--logo here-->
+    <div class="col-xs-4">
+        <a class="navbar-brand col-xs-4" href="#"><i class="fa fa-user-circle fa-5x"></i></a>
+    </div>
+    <!--end logo-->
+    <button class="navbar-toggler hidden-md-up mt-3" style="z-index: 1031" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
+
+    <!--begin form middle-->
+    <div class="col-xs-4 hidden-sm-down text-sm-center pt-3">
+        <form class="form-inline">
+            <input class="form-control" type="text"  placeholder="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+    </div>
+    <!--end form middle-->
+    <!--class="collapse navbar-toggleable-md" id="navbarResponsive"-->
+    <!--begin navigation-->
+    <div class="col-xs-4  flex-xs-middle pt-2 collapse navbar-toggleable-sm" id="navbarResponsive" >
+        <ul class="nav navbar-nav">
+            <div class="row float-xs-right">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="supportedContentDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-bell-o fa-3x" aria-hidden="true"></i></a>
+                    <div class="dropdown-menu" aria-labelledby="supportedContentDropdown">
+                        <a class="dropdown-item" href="#">Ring 1</a>
+                        <a class="dropdown-item" href="#">Ring 2</a>
+                        <a class="dropdown-item" href="#">Ring 3</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="supportedContentDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-envelope-o fa-3x" aria-hidden="true"></i></a>
+                    <div class="dropdown-menu dropdown-menu-last" aria-labelledby="supportedContentDropdown">
+                        <a class="dropdown-item" href="#">Compose</a>
+                        <a class="dropdown-item" href="#">Inbox</a>
+                        <a class="dropdown-item" href="#">Sent</a>
+                        <a class="dropdown-item" href="#">Trash</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="supportedContentDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user-circle-o fa-3x" aria-hidden="true"></i></a>
+                    <div class="dropdown-menu dropdown-menu-last" aria-labelledby="supportedContentDropdown">
+                        <a class="dropdown-item" href="#">Update</a>
+                        <a class="dropdown-item" href="#">Information</a>
+                        <a class="dropdown-item" href="#">Logout</a>
+                    </div>
+                </li>
+            </div>
+        </ul>
+    </div>
+    <!--end navigation-->
+</nav>
+<!--end header-->
+
+
+
+<!--container-->
+<div class="clearfix-100"></div>
+<div class="container">
+
+    <!--Begin Created Table-->
+    <div class="">
+        <!--add product-->
+        <a href="addproduct.html" class="text-xs-right d-block">
+            <span><i class="fa fa-plus-square fa fa-2x" aria-hidden="true"></i></span>
+            Add product
+        </a>
+        <table class="table table-bordered table-striped table-responsive">
+            <caption class="text-uppercase font-weight-bold">Quản lý sản phẩm</caption>
+            <thead class="thead-inverse">
+            <tr>
+                <th>#</th>
+                <th>Tên sản phẩm</th>
+                <th>Ảnh đại diện</th>
+                <th>Danh mục giá</th>
+                <th>on Hover</th>
+            </tr>
+            </thead>
+            <tr>
+                <th>1</td>
+                <td>Acer</td>
+                <td><img width="40px" height="25px" src="images/Acer.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>2</td>
+                <td>Apple</td>
+                <td><img width="40px" height="25px" src="images/Apple.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>3</td>
+                <td>Asus</td>
+                <td><img width="40px" height="25px" src="images/Asus.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>4</td>
+                <td>MSI</td>
+                <td><img width="40px" height="25px" src="images/MSI.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>5</td>
+                <td>HP</td>
+                <td><img width="40px" height="25px" src="images/HP.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>6</td>
+                <td>Lenovo</td>
+                <td><img width="40px" height="25px" src="images/Lenovo.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <!--add product-->
+        <a href="addproduct.html" class="text-xs-right d-block">
+            <span><i class="fa fa-plus-square fa fa-2x" aria-hidden="true"></i></span>
+            Add product
+        </a>
+    </div>
+    <!--end of table-->
+    <div class="clearfix-30"></div>
+    <!--Begin Created Table-->
+    <div class="">
+        <!--add product-->
+        <a href="addproduct.html" class="text-xs-right d-block">
+            <span><i class="fa fa-plus-square fa fa-2x" aria-hidden="true"></i></span>
+            Add product
+        </a>
+        <table class="table table-bordered table-striped">
+            <caption class="text-uppercase font-weight-bold">Quản lý sản phẩm</caption>
+            <thead class="thead-inverse">
+            <tr>
+                <th>#</th>
+                <th>Tên sản phẩm</th>
+                <th>Ảnh đại diện</th>
+                <th>Danh mục giá</th>
+                <th>on Hover</th>
+            </tr>
+            </thead>
+            <tr>
+                <th>1</td>
+                <td>Acer</td>
+                <td><img width="40px" height="25px" src="images/Acer.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>2</td>
+                <td>Apple</td>
+                <td><img width="40px" height="25px" src="images/Apple.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>3</td>
+                <td>Asus</td>
+                <td><img width="40px" height="25px" src="images/Asus.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>4</td>
+                <td>MSI</td>
+                <td><img width="40px" height="25px" src="images/MSI.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>5</td>
+                <td>HP</td>
+                <td><img width="40px" height="25px" src="images/HP.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>6</td>
+                <td>Lenovo</td>
+                <td><img width="40px" height="25px" src="images/Lenovo.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <!--add product-->
+        <a href="addproduct.html" class="text-xs-right d-block">
+            <span><i class="fa fa-plus-square fa fa-2x" aria-hidden="true"></i></span>
+            Add product
+        </a>
+    </div>
+    <!--end of table-->
+    <div class="clearfix-30"></div>
+    <!--Begin Created Table-->
+    <div class="">
+        <!--add product-->
+        <a href="addproduct.html" class="text-xs-right d-block">
+            <span><i class="fa fa-plus-square fa fa-2x" aria-hidden="true"></i></span>
+            Add product
+        </a>
+        <table class="table table-bordered table-striped">
+            <caption class="text-uppercase font-weight-bold">Quản lý sản phẩm</caption>
+            <thead class="thead-inverse">
+            <tr>
+                <th>#</th>
+                <th>Tên sản phẩm</th>
+                <th>Ảnh đại diện</th>
+                <th>Danh mục giá</th>
+                <th>on Hover</th>
+            </tr>
+            </thead>
+            <tr>
+                <th>1</td>
+                <td>Acer</td>
+                <td><img width="40px" height="25px" src="images/Acer.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>2</td>
+                <td>Apple</td>
+                <td><img width="40px" height="25px" src="images/Apple.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>3</td>
+                <td>Asus</td>
+                <td><img width="40px" height="25px" src="images/Asus.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>4</td>
+                <td>MSI</td>
+                <td><img width="40px" height="25px" src="images/MSI.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>5</td>
+                <td>HP</td>
+                <td><img width="40px" height="25px" src="images/HP.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th>6</td>
+                <td>Lenovo</td>
+                <td><img width="40px" height="25px" src="images/Lenovo.png" alt=""/></td>
+                <td>100$</td>
+                <td width="150px">
+                    <div class="text-xs-center row">
+                        <span class="col-xs"><i class="fa fa-pencil-square" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-eye" aria-hidden="true"></i></span>
+                        <span class="col-xs"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <!--add product-->
+        <a href="addproduct.html" class="text-xs-right d-block">
+            <span><i class="fa fa-plus-square fa fa-2x" aria-hidden="true"></i></span>
+            Add product
+        </a>
+    </div>
+    <!--end of table-->
+
+
+
+
+</div>
+
+<!--end container-->
+
+<!--footer-->
+<footer class="footer bg-info">
+    <div class="container">
+        <p class="text-muted text-xs-center">Copyright by @</p>
+    </div>
+</footer>
+<!--end fotter-->
+
+<script src = "./public/script.js"></script>
+</body>
+</html>

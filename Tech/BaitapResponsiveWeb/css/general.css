@@ -1,0 +1,121 @@
+Reset browser
+
+* {
+    padding:0;
+    margin: 0;
+}
+
+
+/*Clear fix with set height*/
+.clearfix-5::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 5px;
+}
+.clearfix-10::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 10px;
+}
+.clearfix-15::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 15px;
+}
+.clearfix-20::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 20px;
+}
+.clearfix-25::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 25px;
+}
+.clearfix-30::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 30px;
+}
+.clearfix-35::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 35px;
+}
+.clearfix-40::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 40px;
+}
+.clearfix-45::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 45px;
+}
+.clearfix-50::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 50px;
+}
+.clearfix-100::after {
+    content: "";
+    display: table;
+    clear: both;
+    height: 100px;
+}
+
+
+/*Border radius*/
+.rounded-1 {
+    border-radius: 1%;
+}
+.rounded-2 {
+    border-radius: 2%;
+}
+.rounded-3 {
+    border-radius: 3%;
+}
+.rounded-4 {
+    border-radius: 4%;
+}
+.rounded-5 {
+    border-radius: 5%;
+}
+.rounded-6 {
+    border-radius: 6%;
+}
+.rounded-7 {
+    border-radius: 7%;
+}
+.rounded-8 {
+    border-radius: 8%;
+}
+.rounded-9 {
+    border-radius: 9%;
+}
+.rounded-10 {
+    border-radius: 10%;
+}
+.rounded-50 {
+    border-radius: 50%;
+}
+
+
+
+/* image setting */
+img {
+    width: 100%;
+    /* height: 100%; */
+}
+
+
