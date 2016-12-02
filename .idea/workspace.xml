@@ -2,95 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c2aaeec-6b84-4fac-a740-60a38d366a03" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/chosen/chosen-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/chosen/chosen-sprite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/images/hambuger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/.hsdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/3-Advanced/1-embedding_tether.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/2-Examples/1-list_of_examples.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/1-Overview/1-why_you_should_use_tether.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/3-Advanced/2-extending_tether.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/2-Examples/2-projects_using_tether.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/1-Overview/2-repositioning.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/1-Overview/3-why_we_dont_support_IE_8.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/sass/_inline-block.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/css/mixins/_inline-block.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/css/mixins/_pie-clearfix.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/css/helpers/_tether-theme-arrows.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/css/helpers/_tether-theme-basic.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/css/helpers/_tether.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/js/abutment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/resources/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/css/browser-demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/browser-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/sass/browser-demo.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/chosen/chosen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/chosen/chosen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/viewport/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/js/constraint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/dolls/dolls.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/dolls/dolls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/js/drop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/facebook/facebook.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/chosen/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/content-visible/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/dolls/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/element-scroll/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/enable-disable/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/facebook/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/out-of-bounds/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/pin/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/scroll/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/simple/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/testbed/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/tooltip/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/viewport/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/coffee/intro.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/css/intro.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/js/intro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/intro.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/sass/intro.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/resources/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/js/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/resources/js/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/js/markAttachment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/js/markAttachment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/css/prism.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/js/shift.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/examples/common/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/dist/css/tether-theme-arrows-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/dist/css/tether-theme-arrows-dark.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/css/tether-theme-arrows-dark.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/dist/css/tether-theme-arrows.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/dist/css/tether-theme-arrows.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/css/tether-theme-arrows.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/dist/css/tether-theme-basic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/dist/css/tether-theme-basic.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/css/tether-theme-basic.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/js/tether-v0.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/dist/css/tether.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/dist/js/tether.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/js/tether.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/dist/css/tether.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/dist/js/tether.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/css/tether.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/src/js/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/coffee/welcome.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/css/welcome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/js/welcome.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TtH/Bt responsive/plugins/tether/docs/welcome/sass/welcome.sass" />
       <change type="DELETED" beforePath="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\Test\ test.html " afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -216,12 +127,20 @@
       <option name="number" value="Default" />
       <updated>1480621644267</updated>
     </task>
+    <task id="LOCAL-00001" summary="home">
+      <created>1480621851160</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1480621851160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="24" width="1608" height="880" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866243" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -258,6 +177,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="home" />
+    <option name="LAST_COMMIT_MESSAGE" value="home" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
