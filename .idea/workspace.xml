@@ -2,186 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0f19888-1ed7-4eae-9d50-a892bac2b8e8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/js/modalAutofocus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-flex.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-flex.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-flex.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-flex.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-grid.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-reboot.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/general.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tech/Bootstrap_Pagination/plugins/tether.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/index 10.26.36 AM.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/script.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/index.html" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/js/modalAutofocus.js" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/js/modalAutofocus.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/js/script.js" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/js/script.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist.zip" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist.zip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-flex.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-flex.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-flex.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-flex.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-flex.min.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-flex.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-flex.min.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-flex.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-grid.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-grid.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-grid.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-grid.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-grid.min.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-grid.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-grid.min.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-reboot.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-reboot.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-reboot.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-reboot.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-reboot.min.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-reboot.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-reboot.min.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/css/bootstrap.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/js/npm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/HELP-US-OUT.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/animated.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/bordered-pulled.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/core.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/fixed-width.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/font-awesome.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/icons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/larger.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/list.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/mixins.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/path.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/rotated-flipped.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/screen-reader.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/screen-reader.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/stacked.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_animated.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_core.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_fixed-width.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_icons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_larger.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_list.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_mixins.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_path.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_screen-reader.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_stacked.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/_variables.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/font-awesome/scss/font-awesome.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/general.css" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/general.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tech/BootstrapJavascript/plugins/tether.js" afterPath="$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/tether.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/Validate forms.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/js/getValueFromForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/js/validateForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/output.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/bootstrap-3.3.7-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-flex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-flex.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-flex.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-flex.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/general.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/plugins/tether.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Validate/welcome.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/tinhbanbonphuong126.github.io.iml" afterPath="$PROJECT_DIR$/.idea/tinhbanbonphuong126.github.io.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/Validate form/js/validateForm.js" afterPath="$PROJECT_DIR$/Tech/Validate form/js/validateForm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/Validate/index.html" afterPath="$PROJECT_DIR$/Tech/Validate/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tech/Validate/js/validateForm.js" afterPath="$PROJECT_DIR$/Tech/Validate/js/validateForm.js" />
     </list>
     <ignored path="tinhbanbonphuong126.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -202,12 +114,22 @@
     <favorites_list name="tinhbanbonphuong126.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tech/Validate/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="welcome.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP/Validate/welcome.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.67587036">
-              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PHP/Validate/output.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.21556886">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -254,6 +176,14 @@
         <option value="$PROJECT_DIR$/Tech/Validate/js/validateForm.js" />
         <option value="$PROJECT_DIR$/Tech/Bootstrap_Pagination/index.html" />
         <option value="$PROJECT_DIR$/Tech/PHP/Day1/index.php" />
+        <option value="$PROJECT_DIR$/PHP/Validate/js/validateForm.js" />
+        <option value="$PROJECT_DIR$/PHP/Validate/index.html" />
+        <option value="$PROJECT_DIR$/PHP/Validate/thongtin.html" />
+        <option value="$PROJECT_DIR$/PHP/Validate/js/getValueFromForm.js" />
+        <option value="$PROJECT_DIR$/PHP/Validate/index.php" />
+        <option value="$PROJECT_DIR$/PHP/Validate/thongtin.php" />
+        <option value="$PROJECT_DIR$/PHP/Validate/output.php" />
+        <option value="$PROJECT_DIR$/PHP/Validate/welcome.php" />
       </list>
     </option>
   </component>
@@ -265,7 +195,11 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6">
+    <include_path>
+      <path value="/Applications/XAMPP/htdocs" />
+    </include_path>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
@@ -285,7 +219,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -299,6 +233,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Default" />
+        <subPane subId="Problems" />
+        <subPane subId="Tests" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Changed Files" />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -327,25 +275,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tech" />
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Validate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Default" />
-        <subPane subId="Problems" />
-        <subPane subId="Tests" />
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="Changed Files" />
       </pane>
       <pane id="Scratches" />
     </panes>
@@ -360,28 +298,22 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="/Applications/MAMP/bin/php/php5.6.27/bin" />
+    <property name="last_opened_file_path" value="/Applications/XAMPP/htdocs" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PHP" />
       <recent name="$PROJECT_DIR$/Tech" />
       <recent name="$PROJECT_DIR$/Tech/BaitapResponsiveWeb/plugins" />
       <recent name="$PROJECT_DIR$/Tech/BaitapResponsiveWeb/css" />
       <recent name="$PROJECT_DIR$/Tech/BaitapResponsiveWeb/plugins/jQuery" />
-      <recent name="$PROJECT_DIR$/Tech/BaitapResponsiveWeb" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Tech/Registers form/js" />
       <recent name="C:\Users\PQ\Desktop\Github\tinhbanbonphuong126.github.io\TtH\Bt responsive\public" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.index.php">
-    <configuration default="false" name="index.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tinhbanbonphuong126.github.io/Tech/Table_DataTable_js/index.htm">
-      <method />
-    </configuration>
-    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Tech/PHP/Day1/index.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.welcome.php">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -413,16 +345,12 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.htm" />
-      <item index="1" class="java.lang.String" itemvalue="PHP Script.index.php" />
+    <configuration default="false" name="welcome.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/PHP/Validate/welcome.php">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.welcome.php" />
     </list>
-    <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.htm" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -471,19 +399,24 @@
       <option name="project" value="LOCAL" />
       <updated>1480672212843</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge branch 'master' of https://github.com/tinhbanbonphuong126/tinhbanbonphuong126.github.io&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;">
+      <created>1480927163692</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1480927163692</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="977" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="977" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866243" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25026625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25559106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -492,13 +425,14 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -554,55 +488,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Quiz javascript/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16010499">
-          <caret line="96" column="38" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Quiz javascript/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32520324">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Registers form/plugins/bootstrap/js/npm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Registers form/plugins/tether.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5905512">
-          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Registers form/js/getValueFromForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Registers form/thongtin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7723577">
-          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Registers form/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.81707317">
-          <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tech/Table and sort/plugins/bootstrap/js/npm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19208382">
@@ -694,13 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11070111">
-          <caret line="4" column="12" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tech/BootstrapJavascript_Modal autofocus/plugins/bootstrap/js/npm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -768,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22753793">
           <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -804,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.50991833">
           <caret line="227" column="16" selection-start-line="227" selection-start-column="16" selection-end-line="227" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,7 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4749125">
           <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,7 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42240372">
           <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -870,7 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.666667">
           <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -878,7 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -886,7 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.72088724">
           <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -894,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.25">
           <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -902,14 +772,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28811523">
           <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tech/Validate/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67587036">
+        <state vertical-scroll-proportion="-23.458334">
           <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/Baitap_Table_DataTable_js/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14405762">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tech/jQuery/Calculator/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6842737">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/Validate/js/validateForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57759625">
+          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/Validate/js/getValueFromForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28004667">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/Validate/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.833334">
+          <caret line="79" column="70" selection-start-line="79" selection-start-column="70" selection-end-line="79" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/XAMPP/xamppfiles/htdocs/Validate/welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.054021608">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/XAMPP/xamppfiles/htdocs/Validate/output.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21608643">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/Validate/welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP/Validate/output.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21556886">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
         </state>
       </provider>
