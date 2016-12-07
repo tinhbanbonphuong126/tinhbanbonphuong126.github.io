@@ -73,7 +73,24 @@ $('#validate_form').on({
         valid=false;
     }   else $('#facebook').next('div').addClass('hidden-xl-down');
 
-    return valid;
+
+    //validate password
+    if($('#password').val().trim()=='') {
+        $('#password').next('div').text('* is empty');
+        $('#password').next('div').removeClass('hidden-xl-down');
+        valid=false; $('#confirm_password')
+    }  else $('#password').next('div').addClass('hidden-xl-down');
+
+    //confirm password
+    if($('#password').val() != $('#confirm_password').val()) {
+        $('#confirm_password').next('div').text('* is empty');
+        $('#confirm_password').next('div').removeClass('hidden-xl-down');
+        valid=false;
+    }  else $('#confirm_password').next('div').addClass('hidden-xl-down');
+
+
+
+            return valid;
 },
     //submit event
     submit: function () {

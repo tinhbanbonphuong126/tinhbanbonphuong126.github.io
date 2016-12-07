@@ -371,7 +371,7 @@ test( "rules(), normalizer", function() {
 		}
 	} );
 
-	// Validate only the username and the url elements.
+	// validateFormByPHP only the username and the url elements.
 	username.valid();
 	equal( v.invalidElements()[ 0 ], username[ 0 ], "The username should be invalid" );
 
@@ -389,7 +389,7 @@ test( "rules(), normalizer", function() {
 	equal( v.numberOfInvalids(), 0, "All elements are valid" );
 	equal( v.size(), 0, "All elements are valid" );
 
-	// Validate the lastname element, which will throw an exception
+	// validateFormByPHP the lastname element, which will throw an exception
 	throws( function() {
 		v.check( lastname[ 0 ] );
 	}, function( err ) {

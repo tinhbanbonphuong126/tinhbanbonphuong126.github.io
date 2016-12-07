@@ -1487,9 +1487,9 @@ test( "don't revalidate the field when pressing special characters", function() 
 	$( "#lastname" ).val( "something" );
 	$( "#something" ).val( "something" );
 
-	// Validate the form
+	// validateFormByPHP the form
 	v.form();
-	errors( 1, "Validate manually" );
+	errors( 1, "validateFormByPHP manually" );
 
 	// Check for special keys
 	e.val( "aaa" );
@@ -2147,7 +2147,7 @@ test( "Validation triggered on radio and checkbox via click", function() {
 	// Init validate
 	form.validate();
 
-	// Validate so we have errors
+	// validateFormByPHP so we have errors
 	ok( !form.valid(), "Form invalid" );
 
 	// Simulate native click on first checkbox to trigger change-event

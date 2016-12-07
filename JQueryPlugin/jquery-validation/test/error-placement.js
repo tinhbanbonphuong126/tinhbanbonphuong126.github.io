@@ -154,7 +154,7 @@ test( "errorcontainer, show/hide only on submit", function() {
 	equal( container.html(), "", "must be empty" );
 	equal( labelContainer.html(), "", "must be empty" );
 
-	// Validate whole form, both showErrors and invalidHandler must be called once
+	// validateFormByPHP whole form, both showErrors and invalidHandler must be called once
 	// preferably invalidHandler first, showErrors second
 	ok( !v.form(), "invalid form" );
 	equal( labelContainer.find( ".error:not(input)" ).length, 2 );
@@ -307,7 +307,7 @@ test( "test aria-describedby with input names contains CSS-selector meta-charact
 		}
 	} );
 
-	// Validate the element
+	// validateFormByPHP the element
 	ok( !field.valid() );
 	equal( field.attr( "aria-describedby" ), "testForm21!#$%&'()*+,./:;<=>?@[\\]^`{|}~-error" );
 
